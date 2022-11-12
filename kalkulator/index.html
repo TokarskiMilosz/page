@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+
+<head>
+	<meta charset="utf-8" />
+	<title>Miłosz Tokarski</title>
+	<meta name="description" content="OPIS STRONY" />
+	<meta name="keywords" content="WYRAZY KLUCZOWE" />
+	<meta name="author" content="NAZWISKO" />
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<a href="../index.html"><img src="../strona główna/pudzian.jpg" id="pudzian"></a>
+	
+	<div id="p">
+		<div id="p1">
+			<h3>Kalkulator</h3>
+		</div>
+		<div id="p2">
+			<input type="text" id="a" placeholder="pierwsza wartość"><br>
+			<input type="text" id="b" placeholder="druga wartość"><br>
+			<button type="button" onclick="dzialanie(this.innerHTML)">suma</button>
+			<button type="button" onclick="dzialanie(this.innerHTML)">roznica</button>
+			<button type="button" onclick="dzialanie(this.innerHTML)">iloczyn</button>
+			<button type="button" onclick="dzialanie(this.innerHTML)">iloraz</button>
+			<div id="w1"><output id="wynik"></output></div>
+		</div>
+	</div>
+	<footer>Miłosz Tokarski</footer>
+	<script>
+		function dzialanie(operator) {
+			let a = parseFloat(document.getElementById('a').value);
+			let b = parseFloat(document.getElementById('b').value);
+
+			switch (operator) {
+				case "suma":
+					document.getElementById("wynik").innerHTML = "= " + parseFloat(a + b);
+					break;
+				case "roznica":
+					document.getElementById("wynik").innerHTML = "= " + parseFloat(a - b);
+					break;
+				case "iloczyn":
+					document.getElementById("wynik").innerHTML = "= " + parseFloat(a * b);
+					break;
+				case "iloraz":
+					document.getElementById("wynik").innerHTML = "= " + parseFloat(a / b);
+					break;
+				default:
+					document.getElementById("wynik").innerHTML = "Nieprawidłowe działanie";
+					break;
+			}
+		}
+	</script>
+</body>
+
+</html>

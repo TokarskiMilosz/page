@@ -1,0 +1,20 @@
+@import "../strona główna/style2.css";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#p {
+    width: 70%;
+    margin: auto;
+    margin-top: 1%;
+}
+
+#p>button {
+    width: 33%;
+    height: 15vw;
+    float: left;
+    font-size: 10vw;
+}
+

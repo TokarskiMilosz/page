@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+
+<head>
+	<meta charset="utf-8" />
+	<title>JS - kalkulator Miłosz Tokarski</title>
+	<meta name="description" content="OPIS STRONY" />
+	<meta name="keywords" content="WYRAZY KLUCZOWE" />
+	<meta name="author" content="NAZWISKO" />
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<a href="../index.html"><img src="../strona główna/pudzian.jpg" id="pudzian"></a>
+	
+	<div id="p0">
+		<div id="logo">
+			<h1>ŁATWE DZIAŁANIA</h1>
+		</div>
+		<div id="p1">
+			<p>Pierwsza liczba jaką wybrałes to <b id="a"></b></p>
+			<p>Druga liczba jaką wybrałeś to <b id="b"></b></p>
+			<p>Wybrałeś działanie: <b id="c"></b></p>
+			<p>Wynik, który uważasz, że jest prawidłowy to <b id="d"></b></p>
+			<p>Prawidłowy wynik to: <b id="wynik"></b></p>
+			<br>
+			<p id="e"></p>
+			<div id="img"></div>
+		</div>
+		<div id="footer">Autor: Miłosz Tokarski</div>
+	</div>
+
+	<script>
+		a = parseFloat(prompt("Podaj wartość pierwszej liczby"));
+		b = parseFloat(prompt("Podaj wartość drugiej liczby"));
+		c = prompt("Wybierz jakie ma być działanie:\ndodawanie\nodejmowanie\nmnożenie\ndzielenie");
+		d = parseFloat(prompt("Podaj jaki według Ciebie będzie wynik:"))
+		switch (c) {
+			case "dodawanie":
+				document.getElementById("a").innerHTML = a;
+				document.getElementById("b").innerHTML = b;
+				document.getElementById("c").innerHTML = "dodawanie (a + b)";
+				document.getElementById("d").innerHTML = d;
+				document.getElementById("wynik").innerHTML = (a + b);
+				if ((a + b) == d) {
+					document.getElementById("e").innerHTML = "<b style='color: green;'>Dobra odpowiedź, tak trzymaj!</b>"
+					document.getElementById("img").innerHTML = '<img src="dobrze.png" id="obraz">'
+				} else {
+					document.getElementById("e").innerHTML = "<b style='color: red;'>Niestety, odpowiedziałeś źle!<br>Doucz się i spróbuj jeszcze raz!</b>"
+					document.getElementById("img").innerHTML = '<img src="niedobrze.png" id="obraz">'
+				}
+				break;
+			case "odejmowanie":
+				document.getElementById("a").innerHTML = a;
+				document.getElementById("b").innerHTML = b;
+				document.getElementById("c").innerHTML = "odejmowanie (a - b)";
+				document.getElementById("d").innerHTML = d;
+				document.getElementById("wynik").innerHTML = (a - b);
+				if ((a - b) == d) {
+					document.getElementById("e").innerHTML = "<b style='color: green;'>Dobra odpowiedź, tak trzymaj!</b>"
+					document.getElementById("img").innerHTML = '<img src="dobrze.png" id="obraz">'
+
+				} else {
+					document.getElementById("e").innerHTML = "<b style='color: red;'>Niestety, odpowiedziałeś źle!<br>Doucz się i spróbuj jeszcze raz!</b>"
+					document.getElementById("img").innerHTML = '<img src="niedobrze.png" id="obraz">'
+				}
+				break;
+			case "mnożenie":
+				document.getElementById("a").innerHTML = a;
+				document.getElementById("b").innerHTML = b;
+				document.getElementById("c").innerHTML = "mnożenie (a * b)";
+				document.getElementById("d").innerHTML = d;
+				document.getElementById("wynik").innerHTML = (a * b);
+				if ((a * b) == d) {
+					document.getElementById("e").innerHTML = "<b style='color: green;'>Dobra odpowiedź, tak trzymaj!</b>"
+					document.getElementById("img").innerHTML = '<img src="dobrze.png" id="obraz">'
+				} else {
+					document.getElementById("e").innerHTML = "<b style='color: red;'>Niestety, odpowiedziałeś źle!<br>Doucz się i spróbuj jeszcze raz!</b>"
+					document.getElementById("img").innerHTML = '<img src="niedobrze.png" id="obraz">'
+				}
+				break;
+			case "dzielenie":
+				document.getElementById("a").innerHTML = a;
+				document.getElementById("b").innerHTML = b;
+				document.getElementById("c").innerHTML = "dzielenie (a / b)";
+				document.getElementById("d").innerHTML = d;
+				document.getElementById("wynik").innerHTML = (a / b);
+				if ((a / b) == d) {
+					document.getElementById("e").innerHTML = "<b style='color: green;'>Dobra odpowiedź, tak trzymaj!</b>"
+					document.getElementById("img").innerHTML = '<img src="dobrze.png" id="obraz">'
+				} else {
+					document.getElementById("e").innerHTML = "<b style='color: red;'>Niestety, odpowiedziałeś źle!<br>Doucz się i spróbuj jeszcze raz!</b>"
+					document.getElementById("img").innerHTML = '<img src="niedobrze.png" id="obraz">'
+				}
+				break;
+			default:
+				document.getElementById("wynik").innerHTML = "Wybrano nieprawidłowe działanie!"
+		}
+	</script>
+</body>
+
+</html>
