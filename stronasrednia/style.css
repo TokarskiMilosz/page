@@ -1,0 +1,208 @@
+@import "../strona główna/style2.css";
+
+* {
+    margin: 0;
+    font-family: 'Varela Round';
+}
+
+html,
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+#pudlo {
+    min-height: 100%;
+    background-color: #ffe0b3;
+    position: relative;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    background-color: #ffe0b3;
+    font-size: 3vw;
+}
+
+#logo {
+    width: 20%;
+}
+
+.napis {
+    display: inline;
+}
+
+nav {
+    width: 100%;
+    position: sticky;
+    z-index: 100;
+    top: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+}
+
+li {
+    float: left;
+    width: 20%;
+    font-size: 1.2vw;
+}
+
+a:active {
+    color: #e5841d;
+}
+
+a:hover {
+    background-color: black;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.akt {
+    background-color: black;
+
+}
+
+main {
+    width: 100%;
+}
+
+#blad {
+    text-align: center;
+    font-size: 3vw;
+    padding-top: 2vw;
+}
+
+main>p {
+    text-align: center;
+    font-size: 2vw;
+    padding-top: 1vw;
+}
+
+#witam {
+    width: 80%;
+    margin: auto;
+    background-color: #e5841d;
+    padding: 1vw;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    right: 10%;
+    border-radius: 3vw;
+    text-align: center;
+    font-size: 3vw;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    transition: 0.5s;
+}
+
+#witam:hover {
+    background-color: #ff9900;
+}
+
+.zadanie {
+    width: 80%;
+    margin: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    background-color: #e5841d;
+    margin-top: 2%;
+    padding: 2vw;
+    color: white;
+    border-radius: 2vw;
+    font-size: 1.2vw;
+    transition: 0.5s;
+}
+
+.zadanie>h2 {
+    font-size: 2.5vw;
+}
+
+.zadanie:hover {
+    background-color: #ff9900;
+}
+
+#tytultabliczka {
+    font-size: 7vw;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#glowna {
+    width: 60%;
+    margin: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    background-color: #e5841d;
+    margin-top: 2%;
+    color: white;
+    border-radius: 2vw;
+    font-size: 1.2vw;
+    transition: 0.5s;
+    padding-bottom: 1vw;
+
+}
+
+#blad1 {
+    color: red;
+}
+
+.tablica {
+    width: 18%;
+    background-color: #e5841d;
+    float: left;
+    margin: 1%;
+    text-align: center;
+    border-radius: 2vw;
+    padding: 1%;
+    color: white;
+    box-sizing: border-box;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    transition: 0.5s;
+}
+
+.tablica>h2 {
+    font-size: 3vw;
+}
+
+.tablica>p {
+    padding-top: 0.2vw;
+    padding-bottom: 0.2vw;
+    font-size: 2vw;
+}
+
+.tablica:hover {
+    background-color: #ff9900;
+}
+
+h3 {
+    color: white;
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1vw 0 1vw 0;
+    position: relative;
+    font-size: 1.2vw;
+    margin-top: 2%;
+}
+
+#footerindex {
+    position: absolute;
+    bottom: 0;
+}
