@@ -1,0 +1,79 @@
+﻿#start{position:fixed;left:0;top:0}
+#top{position:fixed;right:0;bottom:0;width:100px;height:100px;border:1px solid #000;z-index:4000;background-color:red;background-image:url(../../../images/grafika_start/top.png)}
+#top a{display:block;width:100px;height:100px}
+.art-header{background-image:url(../images/header_1.jpg);margin-bottom:2px;margin-top:2px;height:140px}
+a,a:link,a:visited,a:hover,a:active{text-decoration:none}
+.tekst p{text-indent:20px;text-align:justify}
+.tekst table td{border:none}
+.art-article table tr td{padding-left:5px}
+#powrot{width:1150px;margin:0 auto}
+.breadcrumbs_lokalizacja{border-bottom:1px solid #0A4970;padding-left:10px;height:30px;background-color:#0A4970;margin-top:8px}
+.breadcrumbs_lokalizacja span,.breadcrumbs_lokalizacja a:link{line-height:28px;color:#FFF;font-size:11px}
+.breadcrumbs_lokalizacja a:link{text-decoration:underline}
+.breadcrumbs_lokalizacja a:link.pathway{color:#FF8400}
+ul.art-hmenu_top{background-color:#0A486F;width:100%;text-align:center}
+ul.art-hmenu_top>li{display:inline-block;background-color:transparent;position:relative;text-align:center;width:auto}
+ul.art-hmenu_top>li:hover{background-color:#006B9D}
+ul.art-hmenu_top>li>a,ul.art-hmenu_top>li>a:link,ul.art-hmenu_top>li>a:visited{color:#fff;text-decoration:none;font-size:13px;padding-left:12px;padding-right:22px;line-height:40px;display:block;-webkit-transition:.4s;transition:.4s;-webkit-transition-property:background-color;transition-property:background-color;background-image:url(../images/strzalka_hover_2a.png);background-repeat:no-repeat;background-position:center right;text-transform:uppercase;font-family:Verdana}
+ul.art-hmenu_top>li:hover a{background-color:#016B9D;color:#fff}
+ul.art-hmenu_top>li>a:hover{background-color:#006B9D;color:#fff;background-images:url(../images/strzalka_hover_active.png);background-repeat:no-repeat}
+ul.art-hmenu_top>li>a.top_men_1{background-image:none;padding-left:22px;padding-right:22px}
+ul.art-hmenu_top>li>a.active{background-color:#FD9501;color:#FFF;background-image:none}
+ul.art-hmenu_top>li>ul{position:absolute;visibility:hidden;transform:scaleY(0);-webkit-transition:200ms;transition:200ms;-ms-transform-origin:50% 0;transform-origin:50% 0;border:1px solid #fff;left:-1px}
+ul.art-hmenu_top>li:hover ul{visibility:visible;transform:scaleY(1)}
+ul.art-hmenu_top>li>ul>li{margin-top:0;min-width:250px;text-align:left;position:relative;background-color:#006B9D}
+ul.art-hmenu_top>li>ul>li>a:link,ul.art-hmenu_top>li>ul>li>a,ul.art-hmenu_top>li>ul>li>a:visited{display:block;background-position:left bottom;background-repeat:repeat-x;padding:6px 5px 10px 10px;font-size:13px;border-bottom:1px solid #60BFDF;background-color:transparent;border-bottom-color:#2287A8;font-family:Tahoma}
+ul.art-hmenu_top>li>ul>li>a:hover{background-color:#0A486F}
+ul.art-hmenu_top>li>ul>li:hover{background-color:#0A486F}
+ul.art-hmenu_top>li>ul>li>a.top_men_2{background-image:url(../images/poziom_hover.png);background-position:right center;background-repeat:no-repeat}
+ul.art-hmenu_top>li.item-241>ul{left:-170px}
+ul.art-hmenu_top>li>ul>li>a.top_men_2a{background-image:url(../images/poziom_hover_right.png);background-position:left center;background-repeat:no-repeat;padding-left:18px}
+.art-nav ul.art-hmenu_top>li>ul>li>ul{position:absolute;left:100%;top:-1px;visibility:hidden;transform:scaleX(0);-webkit-transition:100ms;transition:100ms;-ms-transform-origin:0 50%;transform-origin:0 50%;border:1px solid #fff}
+ul.art-hmenu_top>li>ul>li:hover ul{visibility:visible;transform:scaleX(1)}
+.art-nav ul.art-hmenu_top>li.item-241>ul>li>ul{position:absolute;left:-252px;top:-1px;visibility:hidden;transform:scaleX(0);-webkit-transition:100ms;transition:100ms;-ms-transform-origin:100% 50%;transform-origin:100% 50%;border:1px solid #fff}
+.art-nav ul.art-hmenu_top>li.item-241>ul>li:hover ul{visibility:visible;transform:scaleX(1)}
+ul.art-hmenu_top>li>ul>li>ul>li{width:250px;color:#fff;position:relative;background-image:url(../images/linia.png);background-repeat:repeat-x;background-position:center bottom}
+ul.art-hmenu_top>li>ul>li>ul>li>a:link,ul.art-hmenu_top>li>ul>li>ul>li>a,ul.art-hmenu_top>li>ul>li>ul>li>a:visited{background-position:center bottom;background-color:#0A486F;padding:6px 5px 10px 10px;display:block;border-bottom:1px solid #60BFDF;border-bottom-color:#0D5A88}
+ul.art-hmenu_top>li>ul>li>ul>li>a:hover{background-color:#0C5987}
+.st{background-images:url(images/poziom_hover.png);background-position:right 5px center;background-repeat:no-repeat}
+.camera_pag{margin-top:-15px;height:30px;text-align:center}
+.accordion-inner dt span.jicons-text{font-weight:700}
+.zastepstwa table{width:100%;margin-top:20px}
+.zastepstwa table tr:nth-child(1) td{background-color:#A9A7A6;color:#FFF}
+.zastepstwa table td{border:1px solid gray}
+.zastepstwa table td:nth-child(1){width:10%}
+.zastepstwa table td:nth-child(2){width:15%}
+.zastepstwa table td:nth-child(3){width:30%}
+.zastepstwa table td:nth-child(4){width:10%}
+.zastepstwa table td:nth-child(5){width:45%}
+.logout_zse{height:300px}
+.login_zse{padding:20px;margin-top:30px;padding-top:0}
+.login_zse .control-label{color:#0A4970;font-weight:700;margin-top:20px}
+.logout_zse .control-group{margin-top:20px}
+.login_zse label{float:left}
+
+.custom.swieta{
+ 	background-image:url('../../../images/swieta/zyczenia.png');
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-size:70%;
+  height:300px;
+  text-align:center;
+  padding-top:20px;
+  font-size:20px;
+  text-shadow:0px 0px 2px #fff;
+  
+}
+#zyczenia {
+  	padding:20px;
+  background-color:rgba(255,255,255,0.6);
+  
+}
+#godz-dost{
+  	background-color:#18274e;
+    color:#fff;
+  	font-size:20px;
+  	font-weight:bold;
+  	box-sizing:border-box;
+  
+}

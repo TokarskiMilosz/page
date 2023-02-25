@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl-pl">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="&quot;Elektronik&quot;, &quot;Elektronik Radom&quot;, &quot;Zespół Szkół Elektronicznych&quot;, Radom, Szkoła, Technikum, &quot;Zasadnicza Szkoła Zawodowa&quot;,&quot;Technik informatyk&quot;,&quot;Technik elektronik&quot;,&quot;Technik teleinformatyk&quot;, &quot;Technik mechatronik&quot;,&quot;Monter elektronik&quot;,&quot;technik automatyk&quot;" />
+	<meta name="robots" content="index, nofollow" />
+	<meta name="description" content="Zespół Szkół Elektronicznych im. Bohaterów Westerplatte" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Zespół Szkół Elektronicznych im. Bohaterów Westerplatte - Start</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/zse_2015_uklad/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://elektronik.edu.pl/modules/mod_i4hosting_likebox/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_slideshowck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+a.thumbnail {display: inline-block; zoom: 1; *display: inline;}#camera_wrap_93 .camera_pag_ul li img, #camera_wrap_93 .camera_thumbs_cont ul li > img {height:75px;}
+#camera_wrap_93 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_93 .camera_caption > div {
+	margin-bottom: 10px;background: rgba(0,132,168,0.9);-moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px;
+}
+#camera_wrap_93 .camera_caption > div div.camera_caption_title {
+	color: #FFFFFF;font-size: 26px;
+}
+#camera_wrap_93 .camera_caption > div div.camera_caption_desc {
+	font-size: 16px;
+}
+
+@media screen and (max-width: 480px) {
+		#camera_wrap_93 .camera_caption {
+			font-size: 0.6em !important;
+		}
+}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"38bfb4887320e218d09c96550caa0a70","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/system/js/mootools-core.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?3cfde6006ae8ffad76f2a12f3bc19ab6" type="text/javascript"></script>
+	<script src="/media/com_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="/media/com_slideshowck/assets/camera.min.js?ver=2.3.14" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+		jQuery(document).ready(function(){
+			new Slideshowck('#camera_wrap_93', {
+				height: '230px',
+				minHeight: '150',
+				pauseOnClick: false,
+				hover: 1,
+				fx: 'random',
+				loader: 'none',
+				pagination: 0,
+				thumbnails: 0,
+				thumbheight: 75,
+				thumbwidth: 100,
+				time: 7000,
+				transPeriod: 1500,
+				alignment: 'center',
+				autoAdvance: 1,
+				mobileAutoAdvance: 1,
+				portrait: 0,
+				barDirection: 'leftToRight',
+				imagePath: '/media/com_slideshowck/images/',
+				lightbox: 'mediaboxck',
+				fullpage: 0,
+				mobileimageresolution: '640',
+				navigationHover: true,
+				mobileNavHover: true,
+				navigation: true,
+				playPause: true,
+				barPosition: 'bottom',
+				responsiveCaption: 0,
+				keyboardNavigation: 0,
+				titleInThumbs: 0,
+				container: ''
+		});
+}); 
+
+	</script>
+
+    <link rel="stylesheet" href="/templates/system/css/system.css" />
+    <link rel="stylesheet" href="/templates/system/css/general.css" />
+	 <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="/templates/zse_2015_uklad/css/template.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="/templates/zse_2015_uklad/css/elektronik.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="/templates/zse_2015_uklad/css/elektronik_1.css" media="screen" type="text/css" />
+    <!--[if lte IE 7]><link rel="stylesheet" href="/templates/zse_2015_uklad/css/template.ie7.css" media="screen" /><![endif]-->
+
+<link rel="shortcut icon" href="/templates/zse_2015_uklad/favicon.ico" type="image/x-icon" />
+    <script>if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+    <script src="/templates/zse_2015_uklad/jquery.js"></script>
+    <script>jQuery.noConflict();</script>
+
+    <script src="/templates/zse_2015_uklad/script.js"></script>
+    <script src="/templates/zse_2015_uklad/modules.js"></script>
+        <script>if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+<!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1834166826846965'); // Insert your pixel ID here.
+	fbq('track', 'PageView');
+	</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1834166826846965&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+
+<div id="art-main">
+<header class="art-header">	<div class="art-shapes"></div>
+			<div id="art-header-title">
+				<h1><a target="_self" href="/www.elektronik.edu.pl">Zespół Szkół Elektronicznych</a></h1>
+				<h2>im. Bohaterów Westerplatte w Radomiu</h2>
+			</div>
+
+	</header>
+<nav class="art-nav">
+    
+<ul class="art-hmenu_top"><li class="item-101 current active"><a class="top_men_1 active" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=31&amp;Itemid=101">Start</a></li><li class="item-120 deeper parent"><a class="separator">O szkole</a><ul><li class="item-194"><a href="/index.php?option=com_content&amp;view=article&amp;id=34&amp;Itemid=194">Dyrekcja i kierownictwo szkoły</a></li><li class="item-126"><a href="/index.php?option=com_content&amp;view=article&amp;id=15&amp;Itemid=126">Zarys historyczny</a></li><li class="item-195"><a href="/index.php?option=com_content&amp;view=article&amp;id=481&amp;Itemid=195">Nauczyciele uczący w  Zespole Szkół Elekronicznych</a></li><li class="item-422"><a href="/index.php?option=com_content&amp;view=article&amp;id=486&amp;Itemid=422">Pracownicy niepedagogiczni ZSE</a></li><li class="item-127"><a href="/index.php?option=com_content&amp;view=article&amp;id=16&amp;Itemid=127">O Bohaterach Westerplatte - Patron</a></li><li class="item-137"><a href="/images/do_pobrania/statut/statut_2022_09_02.pdf" target="_blank">Statut Technikum w Zespole Szkół Elektronicznych</a></li><li class="item-442"><a href="/images/do_pobrania/statut/sbi_statut_zse.pdf" target="_blank">Statut Branżowej Szkoły I Stopnia w Zespole Szkół Elektronicznych</a></li><li class="item-225"><a href="/index.php?option=com_icagenda&amp;view=list&amp;Itemid=225">Kalendarz wydarzeń</a></li></ul></li><li class="item-131 deeper parent"><a class="separator">Oferta edukacyjna</a><ul><li class="item-396"><a href="/index.php?option=com_content&amp;view=article&amp;id=909&amp;Itemid=396">Kierunki kształcenia 2022/2023</a></li><li class="item-435"><a href="/index.php?option=com_content&amp;view=article&amp;id=919&amp;Itemid=435">Zasady rekrutacji 2022/2023</a></li><li class="item-450"><a href="/index.php?option=com_content&amp;view=article&amp;id=928&amp;Itemid=450">Badania do szkoły 2022/2023</a></li><li class="item-153 deeper parent"><a class="top_men_2" href="#">Profile w szkole</a><ul><li class="item-292"><a href="/index.php?option=com_content&amp;view=article&amp;id=247&amp;Itemid=292">Technik mechatronik</a></li><li class="item-148"><a href="/index.php?option=com_content&amp;view=article&amp;id=22&amp;Itemid=148">Technik informatyk</a></li><li class="item-149"><a href="/index.php?option=com_content&amp;view=article&amp;id=23&amp;Itemid=149">Technik elektronik</a></li><li class="item-150"><a href="/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=150">Technik robotyk</a></li><li class="item-394"><a href="/index.php?option=com_content&amp;view=article&amp;id=373&amp;Itemid=394">Technik automatyk</a></li><li class="item-434"><a href="/index.php?option=com_content&amp;view=article&amp;id=728&amp;Itemid=434">Technik programista</a></li></ul></li><li class="item-293"><a href="https://www.kuratorium.waw.pl/download/1/20367/Zalaczniknr1doZarzadzeniazmieniajacego.pdf" target="_blank">Harmonogram rekrutacji 2022/2023</a></li><li class="item-306"><a href="http://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20190001737/O/D20191737.pdf" target="_blank">ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ  z dnia 21 sierpnia 2019</a></li><li class="item-432"><a href="https://www.gov.pl/web/edukacja-i-nauka/informacja-o-ksztalceniu-w-polskim-systemie-oswiaty-osob-przybywajacych-z-zagranicy" target="_blank">Informacja o kształceniu w polskim systemie oświaty osób przybywających z zagranicy</a></li><li class="item-395"><a href="https://www.kuratorium.waw.pl/pl/informacje/aktualnosci/16315,Wykaz-zawodow-wiedzy-artystycznych-i-sportowych-2022-r.html">Wykaz zawodów wiedzy, artystycznych i sportowych 2022 r.</a></li></ul></li><li class="item-123 deeper parent"><a class="separator">Strefa ucznia</a><ul><li class="item-458 deeper parent"><a class="separator">COVID</a><ul><li class="item-461"><a href="/images/do_pobrania/COVID/uczen/Procedury_bezpieczenstwa_na_lekcjach_WF.pdf">Procedury bezpieczeństwa na lekcjach wychowania fizycznego</a></li><li class="item-460"><a href="/images/do_pobrania/COVID/uczen/Procedura_odbieranie_ucznia1.pdf">Procedura postępowania COVID uczen</a></li><li class="item-459"><a href="/images/do_pobrania/COVID/uczen/Procedura_korzystania_z_bloku_sportowego.pdf">Procedura korzystania z bloku sportowego covid</a></li><li class="item-462"><a href="/images/do_pobrania/COVID/uczen/Regulamin_ BHP_pracownie_COVID.pdf">REgulamin BHP - pracownie</a></li><li class="item-463"><a href="/images/do_pobrania/COVID/uczen/Regulamin_BHP_warszaty.pdf">Regulamin BHP - warsztaty</a></li><li class="item-464"><a href="/images/do_pobrania/COVID/uczen/Regulamin_biblioteki_pandemia.pdf">Regulamin biblioteki </a></li><li class="item-465"><a href="/images/do_pobrania/COVID/uczen/Regulamin_organizacji_nauczania_zdalnego_w_ZSE.pdf">Regulamin organizacji nauczania zdalnego w Zespole Szkół Elektronicznych</a></li><li class="item-466"><a href="/images/do_pobrania/COVID/uczen/Wywiad_COVID.pdf">WYWIAD EPIDEMIOLOGICZNY </a></li></ul></li><li class="item-122 deeper parent"><a class="top_men_2" href="#">Dokumenty</a><ul><li class="item-436"><a href="/images/do_pobrania/wykaz_podrecznikow/wykaz_podrecznikow_2022_5.pdf">Wykaz podręczników technikum pięcioletnie</a></li><li class="item-188"><a href="/images/do_pobrania/wykaz_podrecznikow/wykaz_podrecznikow_2022.pdf" target="_blank">Wykaz podręczników technikum czteroletnie</a></li><li class="item-189"><a href="/images/do_pobrania/szkolne_programy_nauczania/Szkolne_programy_nauczania_2022_2023.pdf" target="_blank">SZKOLNY ZESTAW PROGRAMÓW NAUCZANIA </a></li><li class="item-339"><a href="/images/do_pobrania/regulaminy/pw_2021_2022.pdf" target="_blank">Program Wychowawczo-Profilaktyczny</a></li><li class="item-437"><a href="/images/do_pobrania/dokumenty/procbez.pdf">Procedury bezpieczeństwa</a></li><li class="item-449"><a href="https://elektronik.edu.pl/images/do_pobrania/dokumenty/procedury_covid.pdf">Procedury bezpieczeństwa w okresie pandemii</a></li><li class="item-452"><a href="https://elektronik.edu.pl/images/do_pobrania/dokumenty/REGULAMIN_Organizacyjny_COVID.pdf">Regulamin organizacyjny ZSE pdczas pandemii wirua COVID-19</a></li><li class="item-467"><a href="https://elektronik.edu.pl/images/do_pobrania/regulaminy/ppp_procedura.pdf">Procedura udzielania i organizacji pomocy psychologiczno-pedagogicznej</a></li><li class="item-468"><a href="/images/do_pobrania/dokumenty/procedura_przyjmowania_skarg.pdf">Procedura przyjmowania skarg</a></li></ul></li><li class="item-133 deeper parent"><a class="top_men_2" href="#">Egzaminy - informacje</a><ul><li class="item-187"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=51&amp;Itemid=187">Egzamin maturalny</a></li><li class="item-198"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=32&amp;Itemid=198">Egzamin zawodowy</a></li></ul></li><li class="item-200 deeper parent"><a class="top_men_2" href="#">Pracownie i warsztaty</a><ul><li class="item-202"><a href="#">Regulaminy</a></li></ul></li><li class="item-182 deeper parent"><a class="top_men_2" href="#">Stypendia</a><ul><li class="item-183"><a href="/images/do_pobrania/stypendia/regulamin_stypendia_za_wyniki_i_sportowe.pdf" target="_blank">Regulamin przyznawania sytpendiów za wyniki w nauce </a></li><li class="item-184"><a href="/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=184">Regulamin Funduszu Stypendialnego za Osiągnięcia w Konkursach i Olimpiadach. </a></li></ul></li><li class="item-204 deeper parent"><a class="top_men_2" href="#">Samorząd szkolny</a><ul><li class="item-491"><a href="/index.php?option=com_content&amp;view=article&amp;id=1053&amp;Itemid=491">Samorząd uczniowski ZSE</a></li><li class="item-211"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=55&amp;Itemid=211">Ogłoszenia i komunikaty</a></li></ul></li><li class="item-212 deeper parent"><a class="top_men_2" href="/images/do_pobrania/wykaz_zajec/wykaz_zajec_2020_2021.pdf" target="_blank">Wykaz zajęć pozalekcyjnych</a><ul><li class="item-282"><a href="/images/do_pobrania/wykaz_zajec/wykaz_zajec_2019_20.pdf" target="_blank">Wykaz zajęć dodatkowych</a></li></ul></li><li class="item-191"><a href="/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=191">Biblioteka szkolna</a></li><li class="item-308"><a href="/index.php?option=com_content&amp;view=article&amp;id=313&amp;Itemid=308">Terminy praktyk klas III i IV 2022/2023</a></li><li class="item-421"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=76&amp;Itemid=421">Pomoc psychologiczno pedagogiczna</a></li><li class="item-473"><a href="/index.php?option=com_content&amp;view=article&amp;id=996&amp;Itemid=473">Aktywna tablica</a></li></ul></li><li class="item-132 deeper parent"><a class="separator">Strefa rodzica</a><ul><li class="item-453 deeper parent"><a class="separator">COVID</a><ul><li class="item-456"><a href="/images/do_pobrania/COVID/rodzic/Upowaznienie_do_odbioru_ucznia.pdf">Upoważnienie do odbioru ucznia</a></li><li class="item-455"><a href="/images/do_pobrania/COVID/rodzic/Procedura_komunikacji_rodzicow_z_ZSE.pdf">Procedura komunikacji z rodzicami uczniów Zespołu Szkól Elektronicznych</a></li></ul></li><li class="item-138"><a href="/index.php?option=com_content&amp;view=article&amp;id=46&amp;Itemid=138">PRZEDMIOTOWE WYMAGANIA EDUKACYJNE</a></li><li class="item-147"><a href="/images/do_pobrania/plan_pracy_szkoly/plan_pracy_szkoly_2022_2023.pdf" target="_blank">Plan pracy szkoły</a></li><li class="item-440"><a href="/images/do_pobrania/wdz.pdf" target="_blank">Wychowanie do życia w rodzinie</a></li><li class="item-223"><a href="/index.php?option=com_icagenda&amp;view=list&amp;Itemid=223">Kalendarz wydarzeń</a></li><li class="item-307"><a href="/index.php?option=com_content&amp;view=article&amp;id=312&amp;Itemid=307">OGÓLNE WARUNKI UBEZPIECZENIA</a></li><li class="item-351"><a href="/index.php?option=com_content&amp;view=article&amp;id=333&amp;Itemid=351">Rada Rodziców ZSE</a></li><li class="item-420"><a href="/index.php?option=com_content&amp;view=article&amp;id=34&amp;Itemid=420">PLAN DYŻURÓW KADRY KIEROWNICZEJ </a></li><li class="item-429"><a href="/images/do_pobrania/regulaminy/regulamin_rr.pdf" target="_blank">Regulamin Rady Rodziców</a></li><li class="item-439"><a href="https://zip.nfz.gov.pl/GSL/GSL/LeczenieStomatologiczne" target="_blank">Leczenie stomatologiczne uczniów</a></li><li class="item-489"><a href="/index.php?option=com_content&amp;view=article&amp;id=1040&amp;Itemid=489">Druki do pobrania</a></li><li class="item-503"><a href="/images/do_pobrania/druki_do_pobrania/godziny_dostepnosci_1.pdf" target="_blank">Godziny dostępnośći nauczycieli</a></li></ul></li><li class="item-130"><a class="top_men_1" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=60&amp;Itemid=130">Sport i rekreacja</a></li><li class="item-124 deeper parent"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=11&amp;Itemid=124">Ogłoszenia</a><ul><li class="item-142"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=37&amp;Itemid=142">Sekretariat</a></li><li class="item-143"><a title="Ogłoszenia dyrekcji szkoły" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=39&amp;Itemid=143">Dyrekcja szkoły</a></li><li class="item-144"><a title="Ogłoszenia księgowość szkoły" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=38&amp;Itemid=144">Księgowość</a></li><li class="item-145"><a title="Ogłoszenia o konkursach i olimpiadach szkolnych" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=40&amp;Itemid=145">O konkursach i olimpiadach</a></li><li class="item-146"><a title="Ogłoszenia z życia szkoły" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=41&amp;Itemid=146">Z życia szkoły</a></li><li class="item-178"><a title="Ogłoszenia biblioteka szkolna" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=44&amp;Itemid=178">Biblioteka</a></li><li class="item-177"><a title="Ogłoszenia pedagog szkolny" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=43&amp;Itemid=177">Pedagog</a></li><li class="item-209"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=54&amp;Itemid=209">Dla nauczycieli</a></li><li class="item-349"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=65&amp;Itemid=349">Oferty pracy dla absolwentów ZSE</a></li></ul></li><li class="item-241 deeper parent"><a class="linki" href="#">Linki</a><ul><li class="item-242 deeper parent"><a class="top_men_2a" href="#">Akty prawne</a><ul><li class="item-247"><a title="Kuratorium Oświaty w Warszawie" href="http://kuratorium.waw.pl/pl/rodzice-i-uczniowie/informacje-biezace" target="_blank">Kuratorium Oświaty w Warszawie</a></li><li class="item-248"><a title="Rozporządzenie Ministra Edukacji Narodowej z dnia 10 czerwca 2015 r. w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów i słuchaczy w szkołach publicznych" href="http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000843">Rozporządzenie Ministra Edukacji Narodowej z dnia 10 czerwca ...</a></li><li class="item-249"><a title="Ustawa z dnia 7 września 1991 r. o systemie oświaty." href="http://isap.sejm.gov.pl/DetailsServlet?id=WDU19910950425">Ustawa z dnia 7 września 1991 r. o systemie oświaty.</a></li><li class="item-486"><a href="https://www.gov.pl/web/uw-warminsko-mazurski/poznaj-polske--nowe-przedsiewziecie-ministra-edukacji-i-nauki-ustanowione">„Poznaj Polskę” – nowe przedsięwzięcie MEN</a></li><li class="item-487"><a href="https://www.gov.pl/web/edukacja-i-nauka/szczepienia-uczniow-od-12-roku-zycia--materialy-informacyjne">Szczepienia uczniów od 12. roku życia – materiały informacyjne</a></li><li class="item-488"><a href="https://www.gov.pl/web/edukacja-i-nauka/wytyczne-mein-mz-i-gis-dla-szkol-podstawowych-i-ponadpodstawowych-obowiazujace-od-1-wrzesnia-2021-r">Wytyczne MEiN, MZ i GIS dla szkół podstawowych i ponadpodstawowych obowiązujące od 1 września 2021 r.</a></li></ul></li><li class="item-243 deeper parent"><a class="top_men_2a" href="#">Wspierają nas</a><ul><li class="item-250"><a title="Portal stworzony przez uczniów Elektronika dla wszystkich chcących razem spędzać aktywnie wolny czas. " href="http://aktywnie-razem.pl/">Aktywnie razem</a></li><li class="item-251"><a title="Wspolpraca z Zespolem Szkol Elektronicznych w Radomiu siega lat 90-tych, z kazdym rokiem zakres wspolpracy jest poszerzany, co w konsekwencji daje coraz to wieksze korzysci dla obu stron. " href="http://www.tekom.pl/" target="_blank">TEKOM</a></li><li class="item-252"><a title="Firma MMM (3M) Minesota Mining &amp; Mnufakturing zalozona w roku 1902 w St. Paul w stanie Minesota w USA na dzien dzisiejszy ma swoje oddzialy w 64 krajach, fabryki w 44 krajach, zatrudnia ponad 80 tys osob. " href="http://solutions.3mpoland.pl/wps/portal/3M/pl_PL/about-3M/information/flex/three/" target="_blank">3M</a></li><li class="item-253"><a title="Zalozona w 1984 roku firma jest obecnie liderem na polskim rynku i nalezy do scislej czolowki producentow swiatowych. " href="http://www.radwag.com/pl/" target="_blank">RADWAG</a></li><li class="item-254"><a title="Cisco potentat swiatowy w rozwiazaniach sieciowych. " href="http://www.cisco.com/web/learning/netacad/index.html">CISCO</a></li><li class="item-255"><a title="Firma Dürr Poland wspiera edukacje zawodowa w Zespole Szkól Elektronicznych w Radomiu. " href="http://www.durr.pl/" target="_blank">DURR</a></li><li class="item-256"><a title="Zakłady Automatyki „KOMBUD” S.A. zaliczają się do ścisłej czołówki wykonawców w zakresie robót budowlano-montażowych i dostawców urządzeń sterowania " href="http://www.kombud.com.pl/" target="_blank">KOMBUD</a></li><li class="item-257"><a title="SEP jest dobrowolnym zrzeszeniem inżynierów i techników elektryków jako pozarządowa organizacja    twórcza o charakterze naukowo – technicznym." href="http://www.sep.radom.pl/" target="_blank">SEP</a></li></ul></li><li class="item-245 deeper parent"><a class="top_men_2a" href="#">Organizacje działające w szkole</a><ul><li class="item-258"><a title="Wesprzyj nasza szkole, masz okazje zrób to teraz !!! " href="/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=258" target="_blank">Program stypendialny SOLIDARNI</a></li></ul></li><li class="item-267 deeper parent"><a class="top_men_2a" href="#">Dla nauczycieli</a><ul><li class="item-268"><a href="/index.php?option=com_users&amp;view=login&amp;Itemid=268">Logowanie do witryny Zespołu Szkół Elektronicznych w Radomiu</a></li><li class="item-281"><a href="http://poczta.elektronik.edu.pl">Poczta Elektronik</a></li><li class="item-485"><a href="https://elektronik.edu.pl/plan_tym/" target="_blank">Plan tymczasowy</a></li><li class="item-490"><a href="/index.php?option=com_content&amp;view=article&amp;id=1042&amp;Itemid=490">Druki do pobrania dla nauczycieli</a></li></ul></li><li class="item-271"><a href="/index.php?option=com_content&amp;view=article&amp;id=143&amp;Itemid=271">Polityka prywatności na stronach ZSE</a></li><li class="item-433"><a href="https://elektronik.edu.pl/index.php/jubileusz-50-lecia" target="_blank">50 lat Elektronikia</a></li><li class="item-492"><a href="https://oswiatawradomiu.molnet.mol.pl/">Biblioteka szkolna katalog</a></li><li class="item-493"><a href="https://bip.radom.pl/ra/bip-jednostek-oswiatowy/szkoly-ponadpodstawowe/zespol-szkol-elektronic/prawo/42798,RODO.html" target="_blank">RODO</a></li></ul></li><li class="item-125 deeper parent"><a class="separator">Kontakt</a><ul><li class="item-475"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=475">Zespół Szkół Elektronicznych</a></li></ul></li></ul> 
+    </nav>
+<div class="art-sheet clearfix">
+            <!-- tu wyciete -->
+<div class="art-layout-wrapper">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        
+                        <div class="art-layout-cell art-content">
+                        <div class="art-content-layout"><div class="art-content-layout-row"><div class="art-layout-cell art-layout-sidebar-bg" style="width: 100%;"><div class="art-block clearfix"><div class="art-blockcontent"><div class="slideshowck  camera_wrap camera_white_skin" id="camera_wrap_93" style="width:798px;">
+			<div data-alt="" data-thumb="/images/garfika_artykuly/2017_2018/2018_03_lekcje_pokazowe/lekcje_pokazowe.png" data-src="/images/garfika_artykuly/2017_2018/2018_03_lekcje_pokazowe/lekcje_pokazowe.png" data-link="https://elektronik.edu.pl/index.php?option=com_content&view=article&id=559:lekcje-pokazowe-dla-gimnazjalistow&catid=73&Itemid=101" data-target="">
+								</div>
+		<div data-alt="" data-thumb="/images/slider/kierunki.png" data-src="/images/slider/kierunki.png" >
+								</div>
+		<div data-alt="Technik programista" data-thumb="/images/slider/programista.jpg" data-src="/images/slider/programista.jpg" data-link="https://elektronik.edu.pl/index.php/2015-05-15-10-49-45/technikum-czteroletnie/technik-programista" data-target="">
+														<div class="camera_caption moveFromLeft">
+										<div class="camera_caption_title">
+						Technik programista					</div>
+															<div class="camera_caption_desc">
+						Uczniowie, którzy podejmą naukę na nowym kierunku oferowanym przez Zespół Szkół i Elektronicznych, zdobędą wiedzę teoretyczną i umiejętności praktyczne z kwalifikacji zawodowych w zakresie projektowania baz danych i stron internetowych oraz programowania i testowania aplikacji. 										</div>
+																				</div>
+									</div>
+		<div data-alt="TECHNIK INFORMATYK" data-thumb="/images/slider/informatyk.jpg" data-src="/images/slider/informatyk.jpg" data-link="https://elektronik.edu.pl/index.php?option=com_content&view=article&id=22:technik-informatyk&catid=42:oferta-edukacyjna&Itemid=148" data-target="">
+														<div class="camera_caption moveFromLeft">
+										<div class="camera_caption_title">
+						TECHNIK INFORMATYK					</div>
+															<div class="camera_caption_desc">
+						Podejmując naukę w zawodzie technik informatyk uczeń uzyskuje wiedzę i umiejętności w obszarach branży elektronicznej: montowania oraz eksploatacji komputera i urządzeń peryferyjnych, projektowania i wykonywania lokalnych sieci komputerowych, administrowania tymi sieciami, projektowania baz danych i administrowania bazami danych, tworzenia stron www i aplikacji internetowych, administrowania tymi stronami i aplikacjami.										</div>
+																				</div>
+									</div>
+		<div data-alt="TECHNIK AUTOMATYK" data-thumb="/images/slider/automatyk.jpg" data-src="/images/slider/automatyk.jpg" data-link="https://elektronik.edu.pl/index.php?option=com_content&view=article&id=373:technik-automatyk&catid=42:oferta-edukacyjna&Itemid=101" data-target="">
+														<div class="camera_caption moveFromLeft">
+										<div class="camera_caption_title">
+						TECHNIK AUTOMATYK					</div>
+															<div class="camera_caption_desc">
+						Automatyka to dziedzina techniki i nauki, która zajmuje się zagadnieniami sterowania różnorodnymi procesami, głównie technologicznymi i przemysłowymi (zwykle bez udziału lub z ograniczonym udziałem człowieka).										</div>
+																				</div>
+									</div>
+		<div data-alt="TECHNIK MECHATRONIK" data-thumb="/images/slider/mechanik.jpg" data-src="/images/slider/mechanik.jpg" data-link="https://elektronik.edu.pl/index.php?option=com_content&view=article&id=247:technik-mechatronik&catid=42&Itemid=292" data-target="">
+														<div class="camera_caption moveFromLeft">
+										<div class="camera_caption_title">
+						TECHNIK MECHATRONIK					</div>
+															<div class="camera_caption_desc">
+						Podejmując naukę w zawodzie mechanik automatyki przemysłowej i urządzeń precyzyjnych uczeń uzyskuje wiedzę i umiejętności w obszarach branży elektronicznej: montowania układów automatyki przemysłowej, montowania urządzeń precyzyjnych, uruchamiania układów automatyki przemysłowej oraz urządzeń precyzyjnych, obsługiwania układów automatyki przemysłowej oraz urządzeń precyzyjnych.										</div>
+																				</div>
+									</div>
+		<div data-alt="TECHNIK ELEKTRONIK" data-thumb="/images/slider/elektronik.jpg" data-src="/images/slider/elektronik.jpg" data-link="https://elektronik.edu.pl/index.php?option=com_content&view=article&id=23:technik-elektronik&catid=42:oferta-edukacyjna&Itemid=149" data-target="">
+														<div class="camera_caption moveFromLeft">
+										<div class="camera_caption_title">
+						TECHNIK ELEKTRONIK					</div>
+															<div class="camera_caption_desc">
+						Podejmując naukę w zawodzie technik elektronik uczeń uzyskuje wiedzę i umiejętności w obszarach branży elektronicznej: instalowania oraz konserwowania urządzeń elektronicznych, użytkowania urządzeń elektronicznych, naprawy urządzeń elektronicznych.										</div>
+																				</div>
+									</div>
+		<div data-alt="TECHNIK TELEINFORMATYK" data-thumb="/images/slider/teleinformatyk.jpg" data-src="/images/slider/teleinformatyk.jpg" data-link="https://elektronik.edu.pl/index.php?option=com_content&view=article&id=24:technik-teleinformatyk&catid=42:oferta-edukacyjna&Itemid=150" data-target="">
+														<div class="camera_caption moveFromLeft">
+										<div class="camera_caption_title">
+						TECHNIK TELEINFORMATYK					</div>
+															<div class="camera_caption_desc">
+						Podejmując naukę w zawodzie teleinformatyk informatyk uczeń uzyskuje wiedzę i umiejętności w obszarach branży elektronicznej: uruchamiania i utrzymania terminali i przyłączy abonenckich, projektowania i wykonywania lokalnych sieci komputerowych, montowania i eksploatacji systemów transmisyjnych, instalowania i eksploatacji systemów komutacyjnych,administrowania sieciami teleinformatycznymi.										</div>
+																				</div>
+									</div>
+		<div data-alt="" data-thumb="/images/slider/certyfikaty.jpg" data-src="/images/slider/certyfikaty.jpg" >
+								</div>
+		<div data-alt="" data-thumb="/images/slider/godlo.jpg" data-src="/images/slider/godlo.jpg" >
+								</div>
+		<div data-rel="noopener noreferrer" data-alt="" data-thumb="/images/slider/najlepsza.png" data-src="/images/slider/najlepsza.png" data-link="cisco.elektronik.edu.pl" data-target="_blank">
+								</div>
+		<div data-rel="noopener noreferrer" data-alt="Microsoft Imagine Premium " data-thumb="/images/do_pobrania/microsoft/s_mic_im.png" data-src="/images/do_pobrania/microsoft/s_mic_im.png" data-link="https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=dd084e8d-ffaf-e611-9423-b8ca3a5db7a1&vsro=8" data-target="_blank">
+														<div class="camera_caption moveFromLeft">
+										<div class="camera_caption_title">
+						Microsoft Imagine Premium 					</div>
+															<div class="camera_caption_desc">
+						W ramach programu Microsoft Imagine Premium (d. DreamSpark Premium), w którym uczestniczy Zespół Szkół Elektronicznych w Radomiu, uczniowie i pracownicy mają bezpłatny dostęp do oprogramowania firmy Microsoft: systemy operacyjne Windows, Visual Studio, SQL Server, aplikacje Access, Project i Visio oraz biblioteka MSDN. Dystrybucja oprogramowania i kodów licencyjnych w ramach tej licencji jest realizowana w oparciu o elektroniczny serwis "ELMS WebStore for Microsoft Imagine.										</div>
+																				</div>
+									</div>
+</div>
+<div style="clear:both;"></div></div></div></div></div></div>
+<!-- begin nostyle -->
+<div class="art-nostyle_tiles">
+<!-- begin nostyle content -->
+<ul class="menu_tiles"><li class="item-159"><a class="a1" href="http://www.plan.elektronik.edu.pl" target="_blank">Plan lekcji</a></li><li class="item-157"><a class="tiles a2" title="Dziennik elektroniczny" href="https://synergia.librus.pl/loguj/radom" target="_blank">E-dziennik</a></li><li class="item-162"><a class="a5" href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=77&amp;Itemid=162">Twoje dane</a></li><li class="item-115"><a class="a6" href="http://moodle.elektronik.edu.pl/login/index.php" target="_blank">Moodle</a></li><li class="item-160"><a class="a7" href="https://cisco.elektronik.edu.pl/" target="_blank">Akademia Cisco</a></li><li class="item-423"><a href="/images/gazetka/elektrogazeta_11_22.pdf" target="_blank">Gazetka szkolna</a></li><li class="item-430"><a href="/index.php?option=com_content&amp;view=article&amp;id=633&amp;Itemid=430">ERASMUS +</a></li></ul><!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+<div class="art-content-layout"><div class="art-content-layout-row"><div class="art-layout-cell" style="width: 100%;"><article class="art-post_lokalizacja"><div class="art-postcontent clearfix"><div class="breadcrumbs_lokalizacja">
+<span class="showHere">Jesteś tutaj: </span><span>Strona startowa</span></div></div></article></div></div></div><article class="art-post art-messages"><div class="art-postcontent clearfix">
+<div id="system-message-container">
+</div></div></article><div class="blog" itemscope itemtype="http://schema.org/Blog"><div class="items-leading">
+            <div class="leading-0" 
+            itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1198:gala-sportu&amp;catid=83&amp;Itemid=101">Gala sportu</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2023-02-10T08:13:46+00:00" itemprop="datePublished">Opublikowano: 10 luty 2023</time></span> | <span class="art-postauthoricon">Pawel Wach</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1198:gala-sportu&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < Gala sportu >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:205" />Odsłony: 205</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/garfika_artykuly/2022_2023/2023_02_08_KATARZYNA_SKORKIEWICZ_NAGRODA/M/logo_strona1.jpg"></img></div><div class="art-article"><p>Miło nam poinformować, że podczas tegorocznej Gali Sportu, która odbyła się 3 lutego w Awiatorze, nauczycielka naszej szkoły Katarzyna Skórkiewicz została uhonorowana nagrodą w kategorii "Serce dla sportu". Gratulujemy otrzymania tej prestiżowej nagrody.</p>
+</div><p class="readmore"><a class="readon art-button" href="/index.php?option=com_content&amp;view=article&amp;id=1198:gala-sportu&amp;catid=83&amp;Itemid=101">Czytaj&#160;więcej...</a></p></div></article>        </div>
+            </div>
+                                            <div class="items-row cols-1 row-0">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1197:budujemy-eko-miasto-lego&amp;catid=83&amp;Itemid=101">Budujemy EKO-MIASTO LEGO</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2023-02-09T15:22:54+00:00" itemprop="datePublished">Opublikowano: 09 luty 2023</time></span> | <span class="art-postauthoricon">Pawel Wach</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1197:budujemy-eko-miasto-lego&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < Budujemy EKO-MIASTO LEGO >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:203" />Odsłony: 203</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/garfika_artykuly/2022_2023/2023_02_02_ECOLEGO/M/logo_lego.jpg"></img></div><div class="art-article"><p>W dniu 2 lutego nauczycielki języka angielskiego, Barbara Kostkiewicz i Magdalena Dygała zaangażowały uczniów klasy 3M w akcję ,,Budujemy EKO-MIASTO LEGO” w ramach międzynarodowego projektu ,,Climate Action Project”.</p>
+</div><p class="readmore"><a class="readon art-button" href="/index.php?option=com_content&amp;view=article&amp;id=1197:budujemy-eko-miasto-lego&amp;catid=83&amp;Itemid=101">Czytaj&#160;więcej...</a></p></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+                                                    <div class="items-row cols-1 row-1">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1196:sweded-film-2&amp;catid=83&amp;Itemid=101">SWEDED FILM</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2023-01-19T14:31:06+00:00" itemprop="datePublished">Opublikowano: 19 styczeń 2023</time></span> | <span class="art-postauthoricon">Pawel Wach</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1196:sweded-film-2&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < SWEDED FILM >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:413" />Odsłony: 413</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/garfika_artykuly/2022_2023/2022_10_20_KONKURS_SWEDEDFILM/M/Grafika2.png"></img></div><div class="art-article"><p>Miło nam ogłosić zwycięzców konkursu filmowego pt. „Sweded film – film niskobudżetowy" zorganizowanego przez szkolny klub filmowy „Elektrofilmowcy ZSE”. I miejsce zajęli uczniowie klasy 2P1: Dominik Ruszczyk, Jakub Markowski, Kacper Jaskólski, Krzysztof Widziniewicz, Wiktor Maj. Gratulujemy serdecznie!!!</p>
+</div><p class="readmore"><a class="readon art-button" href="/index.php?option=com_content&amp;view=article&amp;id=1196:sweded-film-2&amp;catid=83&amp;Itemid=101">Czytaj&#160;więcej...</a></p></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+                                                    <div class="items-row cols-1 row-2">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1194:zmiany-w-planie-lekcji-os-02-01-2023&amp;catid=83&amp;Itemid=101">Zmiany w planie lekcji os 02.01.2023</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2022-12-30T08:53:49+00:00" itemprop="datePublished">Opublikowano: 30 grudzień 2022</time></span> | <span class="art-postauthoricon">Zbigniew Matyga</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1194:zmiany-w-planie-lekcji-os-02-01-2023&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < Zmiany w planie lekcji os 02.01.2023 >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:323" />Odsłony: 323</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/inne/plan.png"></img></div><div class="art-article"><p>Proszę zapoznać się z nowym planem lekcji obowiązującym od 02.01.2023.</p>
+<p><a href="http://www.plan.elektronik.edu.pl/">http://www.plan.elektronik.edu.pl/</a></p></div></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+                                                    <div class="items-row cols-1 row-3">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1083:bozonarodzeniowe-zyczenia-4&amp;catid=83&amp;Itemid=101">Bożonarodzeniowe Życzenia</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2022-12-23T10:39:42+00:00" itemprop="datePublished">Opublikowano: 23 grudzień 2022</time></span> | <span class="art-postauthoricon">Pawel Wach</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1083:bozonarodzeniowe-zyczenia-4&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < Bożonarodzeniowe Życzenia >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:1023" />Odsłony: 1023</div><div class="art-postcontent clearfix"><div class="art-article"><p style="text-align: center;"><img src="/images/garfika_artykuly/2022_2023/2022_12_23_ZYCZENIA/ZYCZENIA_2022_S.jpg" alt="ZYCZENIA 2022 S" /></p></div></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+                                                    <div class="items-row cols-1 row-4">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1192:rekrutacja-do-projektu-erasmus&amp;catid=83&amp;Itemid=101">Rekrutacja do projektu Erasmus +</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2022-12-19T11:49:13+00:00" itemprop="datePublished">Opublikowano: 19 grudzień 2022</time></span> | <span class="art-postauthoricon">Pawel Wach</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1192:rekrutacja-do-projektu-erasmus&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < Rekrutacja do projektu Erasmus + >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:744" />Odsłony: 744</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/do_pobrania/erasmus2022/LOGO_NABOR_S.jpg"></img></div><div class="art-article"><p>Uczniowie klas 4 klas o kierunku technik automatyk, technik informatyk, technik elektronik, technik mechatronik, technik teleinformatyk, technik programista, zainteresowani wyjazdem na staże do Hiszpanii w w/w programu proszeni są o zapoznanie się z regulaminem Regulamin rekrutacji uczestników do projektu „Mobilność i specjalizacja zawodowa kluczem do sukcesu na europejskim rynku pracy”</p>
+</div><p class="readmore"><a class="readon art-button" href="/index.php?option=com_content&amp;view=article&amp;id=1192:rekrutacja-do-projektu-erasmus&amp;catid=83&amp;Itemid=101">Czytaj&#160;więcej...</a></p></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+                                                    <div class="items-row cols-1 row-5">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1193:szlachetna-paczka-final&amp;catid=83&amp;Itemid=101">Szlachetna Paczka - finał</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2022-12-19T11:47:29+00:00" itemprop="datePublished">Opublikowano: 19 grudzień 2022</time></span> | <span class="art-postauthoricon">Pawel Wach</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1193:szlachetna-paczka-final&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < Szlachetna Paczka - finał >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:415" />Odsłony: 415</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/garfika_artykuly/2022_2023/2022_12_10_PACZKA/M/logo.png"></img></div><div class="art-article"><p>W dniach 10-11 grudnia w szkole podstawowej nr 11 w Radomiu miał miejsce finał akcji Szlachetna Paczka. Nasza paczka została dostarczona rodzinie - samotnej matce Pani M. i dwójce jej synów. W ramach akcji zebraliśmy w szkole łącznie 800zł (dokładnie 784,50zł + 5,20euro). Za te pieniądze kupiliśmy odzież, upominki i przybory szkolne. O pozostałe rzeczy zatroszczyli się studenci z Duszpasterstwa Akademickiego w Radomiu, którzy byli współorganizatorami naszej szlachetnej paczki.</p>
+</div><p class="readmore"><a class="readon art-button" href="/index.php?option=com_content&amp;view=article&amp;id=1193:szlachetna-paczka-final&amp;catid=83&amp;Itemid=101">Czytaj&#160;więcej...</a></p></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+                                                    <div class="items-row cols-1 row-6">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1191:bluzy-elektronika&amp;catid=83&amp;Itemid=101">BLUZY ELEKTRONIKA</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2022-12-15T10:39:32+00:00" itemprop="datePublished">Opublikowano: 15 grudzień 2022</time></span> | <span class="art-postauthoricon">Zbigniew Matyga</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1191:bluzy-elektronika&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < BLUZY ELEKTRONIKA >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:636" />Odsłony: 636</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/garfika_artykuly/2022_2023/2022-12-15-bluzy/bluza-3.png"></img></div><div class="art-article"><div dir="auto">Samorząd uczniowski przy współpracy z marką The Suzie Store stworzył długo wyczekiwane przez uczniów Bluzy szkolne.</div>
+<div dir="auto">Bluzy będą dostępne w 2 kolorach: czarnym i beżowym, w rozmiarach XS,S,M,L,XL i XXL,XXXL.</div></div><p class="readmore"><a class="readon art-button" href="/index.php?option=com_content&amp;view=article&amp;id=1191:bluzy-elektronika&amp;catid=83&amp;Itemid=101">Czytaj&#160;więcej...</a></p></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+                                                    <div class="items-row cols-1 row-7">
+           <div class="item column-1"
+        itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/index.php?option=com_content&amp;view=article&amp;id=1189:miko-lajki-matematyczne-2022&amp;catid=83&amp;Itemid=101">Mikołajki matematyczne 2022</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon"><time datetime="2022-12-15T08:05:05+00:00" itemprop="datePublished">Opublikowano: 15 grudzień 2022</time></span> | <span class="art-postauthoricon">Pawel Wach</span> | <a href="/index.php?option=com_content&amp;view=article&amp;id=1189:miko-lajki-matematyczne-2022&amp;catid=83&amp;tmpl=component&amp;print=1&amp;layout=default&amp;Itemid=101" title="Wydrukuj artykuł < Mikołajki matematyczne 2022 >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">			<span class="icon-print" aria-hidden="true"></span>
+		Drukuj	</a> | <meta itemprop="interactionCount" content="UserPageVisits:423" />Odsłony: 423</div><div class="art-postcontent clearfix"><div class="img-intro-left"><img src="/images/garfika_artykuly/2019_2020/2019_11_11_MIKOLAJKI_ELEKTRONIK/M/logo_300x170.png"></img></div><div class="art-article"><p>Z przyjemnością przekazujemy, że Święty Mikołaj był bardzo zadowolony z Mikołajków w Elektroniku. Szczególnie uradowała go forma zajęć, jakie przygotowali nauczyciele wraz z uczniami oraz pomysłowe ubiory. Zainteresowanie przeszło oczekiwania organizatorów. Bardzo dużym wzięciem, cieszyły się wszystkie konkurencje a rekordy biły szachy.</p>
+</div><p class="readmore"><a class="readon art-button" href="/index.php?option=com_content&amp;view=article&amp;id=1189:miko-lajki-matematyczne-2022&amp;catid=83&amp;Itemid=101">Czytaj&#160;więcej...</a></p></div></article>    </div>
+                    <span class="row-separator"></span>
+</div>
+            <article class="art-post"><div class="art-postcontent clearfix"><div class="items-more">
+<ol class="nav nav-tabs nav-stacked">
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1190:klasa-3p1-na-wycieczce&amp;catid=83&amp;Itemid=101">
+				Klasa 3P1 na wycieczce</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1188:radomskie-schronisko-dla-zwierzat-zbiorka-2&amp;catid=83&amp;Itemid=101">
+				Radomskie Schronisko dla Zwierząt finał</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1187:jak-co-roku-22-stycznia-hospicjum-krolowej-apostolow-w-radomiu-odwiedzi-sw-mikola&amp;catid=83&amp;Itemid=101">
+				Jak co roku 22 stycznia HOSPICJUM KRÓLOWEJ APOSTOŁÓW W RADOMIU odwiedzi  Św Mikołaj</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1186:koncert-anioly-elektronika&amp;catid=83&amp;Itemid=101">
+				Koncert Anioły Elektronika</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1185:olimpiada-wiedzy-o-filmie-i-komunikacji-spolecznej&amp;catid=83&amp;Itemid=101">
+				Olimpiada wiedzy o filmie i komunikacji społecznej</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1184:wyklady-z-firma-humansoft-w-ramach-programu-p-tech&amp;catid=83&amp;Itemid=101">
+				Wykłady z firmą Humansoft w ramach programu  P-TECH</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1183:mistrzostwa-szkoly-w-tenisie-stolowym&amp;catid=83&amp;Itemid=101">
+				Mistrzostwa Szkoły w Tenisie Stołowym</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1181:10-listopada-w-przededniu-104-rocznicy-odzyskania&amp;catid=83&amp;Itemid=101">
+				10 listopada w przededniu 104 rocznicy odzyskania ...</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1180:radomskie-schronisko-dla-zwierzat-zbiorka&amp;catid=83&amp;Itemid=101">
+				Radomskie Schronisko dla Zwierząt zbiórka</a>
+		</li>
+			<li>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=1179:matematyczne-mikolajki-w-elektroniku-7&amp;catid=81&amp;Itemid=101">
+				Matematyczne mikołajki w elektroniku</a>
+		</li>
+	</ol>
+</div></div></article><div class="pagination"><p class="counter">Strona 1 z 87</p><div class="art-pager"><span class="active">start</span><span class="active">Poprzedni artykuł</span><span class="active">1</span><a href="/index.php?limitstart=9" class="">2</a><a href="/index.php?limitstart=18" class="">3</a><a href="/index.php?limitstart=27" class="">4</a><a href="/index.php?limitstart=36" class="">5</a><a href="/index.php?limitstart=45" class="">6</a><a href="/index.php?limitstart=54" class="">7</a><a href="/index.php?limitstart=63" class="">8</a><a href="/index.php?limitstart=72" class="">9</a><a href="/index.php?limitstart=81" class="">10</a><a title="Następny artykuł" href="/index.php?limitstart=9" class="hasTip ">Następny artykuł</a><a title="koniec" href="/index.php?limitstart=774" class="hasTip ">koniec</a></div></div></div>
+
+
+                        </div>
+                        <div class="art-layout-cell art-sidebar2">
+<div class="art-block clearfix"><div class="art-blockcontent"><div class="custom"  >
+	<style scoped="scoped" type="text/css"><!--
+#sympatycy a{
+background-color:#6f1932;
+padding:20px 10px;
+text-align:center;
+font-size:1.2rem;
+color:#fff;
+display:block;
+margin-bottom:20px
+}
+--></></style>
+<div id="sympatycy"><a href="/index.php?option=com_content&amp;view=article&amp;id=1182:stowarzyszenie-absolwentow-i-sympatykow-elektronika&amp;catid=2:uncategorised&amp;Itemid=101">Stowarzyszenie&nbsp;Absolwentów <br />i&nbsp;Sympatyków „Elektronika”</a></div></div></div></div><div class="art-block clearfix_anonse"><div class="art-blockheader"><h3 class="t">Ogłoszenia i komunikaty</h3></div><div class="art-blockcontent"><ul class="latestnews_anonse mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1195:egzaminy-zawodowe-informacje-sesja-zima-2023&amp;catid=32&amp;Itemid=198" itemprop="url">
+			<span itemprop="name">
+				Egzaminy zawodowe informacje - sesja zima 2023			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1165:wykaz-turniejow-i-olimpiad-technicznych-w-roku-szkolnym-2022-2023&amp;catid=40&amp;Itemid=145" itemprop="url">
+			<span itemprop="name">
+				Wykaz turniejów i olimpiad technicznych w roku szkolnym 2022/2023			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1164:infromacje-dla-maturzystow-matura-2023&amp;catid=51&amp;Itemid=187" itemprop="url">
+			<span itemprop="name">
+				Infromacje dla maturzystów - matura 2023			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1159:harmonogram-zebran-z-rodzicami-wrzesien-2022&amp;catid=39&amp;Itemid=143" itemprop="url">
+			<span itemprop="name">
+				HARMONOGRAM ZEBRAŃ Z RODZICAMI - wrzesień 2022			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1150:wydawanie-swiadectw-maturalnych&amp;catid=37&amp;Itemid=142" itemprop="url">
+			<span itemprop="name">
+				Wydawanie świadectw maturalnych			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1134:odbior-dyplomow-potwierdzajacych-uzyskanie-tytulu-technika&amp;catid=32&amp;Itemid=198" itemprop="url">
+			<span itemprop="name">
+				Odbiór dyplomów potwierdzających uzyskanie tytułu technika			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1126:komunikat-o-przyborach-pomocniczych-egzamin-zawodowy-2022&amp;catid=32&amp;Itemid=198" itemprop="url">
+			<span itemprop="name">
+				Komunikat o przyborach pomocniczych - egzamin zawodowy 2022			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1099:matura-2022-informacje-dla-abslowenetow&amp;catid=51&amp;Itemid=187" itemprop="url">
+			<span itemprop="name">
+				Matura 2022 - informacje dla abslowenetów			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1090:wytyczne-dotyczace-organizowania-i-przeprowadzania-w-2022-r-egzaminow&amp;catid=32&amp;Itemid=198" itemprop="url">
+			<span itemprop="name">
+				Wytyczne dotyczące organizowania i przeprowadzania w 2022 r. egzaminów			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=1081:komunikaty-dyrektora-cke-w-sprawie-materialow-i-przyborow-pomocniczych&amp;catid=32&amp;Itemid=198" itemprop="url">
+			<span itemprop="name">
+				Komunikaty dyrektora CKE w sprawie materiałów i przyborów pomocniczych			</span>
+		</a>
+	</li>
+</ul></div></div><div class="art-block clearfix"><div class="art-blockcontent"><div class="custom"  >
+	<style scoped="scoped" type="text/css"><!--
+div#godz a{
+display:block;
+font-size:16px;
+color:#fff;
+padding:15px 0px;}
+
+div#godz{
+padding-left:0px
+}
+--></></style>
+<div id="godz"><a href="/images/do_pobrania/druki_do_pobrania/godziny_dostepnosci_1.pdf" target="_blank">GODZINY DOSTĘPNOŚCI NAUCZYCIELI</a></div></div></div></div><div class="art-block clearfix"><div class="art-blockcontent"><div class="custom"  >
+	<div style="margin-top: 15px;"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=51&amp;Itemid=187"><img src="/images/grafika-menu/egzamin_maturalny.jpg" alt="egzamin maturalny" width="275" /></a> <a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=32&amp;Itemid=198"><img src="/images/grafika-menu/egzamin_zawodowy.jpg" alt="egzamin zawodowy" width="275" /></a></div></div></div></div><div class="art-block clearfix_kalendarz"><div class="art-blockheader"><h3 class="t">DreamSpark</h3></div><div class="art-blockcontent"><div class="custom_kalendarz"  >
+	<p><a href="/index.php?option=com_content&amp;view=article&amp;id=348:regulamin-udostepniania-oprogramowania-w-ramach-microsoft-imagine-premium-dla-uczniow-i-nauczycieli-zespolu-szkol-elektronicznych-w-radomiu&amp;catid=11&amp;Itemid=124" target="_blank"><img src="/images/moduly/dreamspark.png" alt="dreamspark" title="W ramach programu wszyscy uczniowie oraz pracownicy ZSE mają prawo do nieodpłatnego korzystania z oprogramowania firmy Microsoft." /></a></p></div></div></div><div class="art-block clearfix_kalendarz"><div class="art-blockheader"><h3 class="t">Kierunki kształcenia</h3></div><div class="art-blockcontent"><div class="custom_kalendarz"  >
+	<div id="profile">
+<div class="programista"><a href="/index.php?option=com_content&amp;view=article&amp;id=728:technik-programista&amp;catid=42:oferta-edukacyjna&amp;Itemid=434">Technik programista</a></div>
+<div class="automatyk"><a href="/index.php?option=com_content&amp;view=article&amp;id=373:technik-automatyk&amp;catid=42:oferta-edukacyjna&amp;Itemid=394">Technik automatyk</a></div>
+<div class="informatyk"><a href="/index.php?option=com_content&amp;view=article&amp;id=22:technik-informatyk&amp;%20%20amp;catid=42:oferta-edukacyjna&amp;Itemid=148">Technik informatyk</a></div>
+<div class="mechatronik"><a href="/index.php?option=com_content&amp;view=article&amp;id=247:technik-mechatronik&amp;catid=42&amp;Itemid=292">Technik mechatronik</a></div>
+<div class="elektronik"><a href="/index.php?option=com_content&amp;view=article&amp;id=23:technik-elektronik&amp;%20%20amp;catid=42:oferta-edukacyjna&amp;Itemid=149">Technik elektronik</a></div>
+<div class="teleinformatyk"><a href="/index.php?option=com_content&amp;view=article&amp;id=24:technik-%20%20%20%20teleinformatyk&amp;catid=42:oferta-edukacyjna&amp;Itemid=150">Technik teleinformatyk</a></div>
+<div class="monter">&nbsp;</div>
+</div></div></div></div><div class="art-block clearfix_kalendarz"><div class="art-blockheader"><h3 class="t">Partnerzy</h3></div><div class="art-blockcontent"><div class="custom_kalendarz"  >
+	<div id="partner">
+<ul>
+<li><a href="http://www.durr.pl/" target="_blank"><img src="/images/loga_sponsorow/durr_logo.png" alt="durr logo" width="182" height="86" /></a></li>
+<li><a href="http://radwag.com/pl/" target="_blank"><img src="/images/loga_sponsorow/logo_radwag.gif" alt="logo radwag" width="155" height="76" /></a></li>
+<li><img src="/images/loga_sponsorow/banersicso1.png" alt="banersicso1" width="104" height="100" /></li>
+<li><a href="http://www.kombud.com.pl/" target="_blank"><img src="/images/loga_sponsorow/kombud.jpg" alt="kombud" /></a></li>
+<li><a href="http://www.itmgroup.eu/" target="_blank"><img src="/images/loga_sponsorow/itm_logo.jpg" alt="itm logo" /></a></li>
+<li><a href="http://automobilklub.radom.pl/"><img src="/images/loga_sponsorow/logo-60-lat-1.png" alt="logo 60 lat 1" /></a></li>
+<li><a href="http://www.radom.caritas.pl/" target="_blank"><img src="/images/loga_sponsorow/caritas.png" alt="Caritas Dziecezji Radomskiej" width="280" /></a></li>
+</ul>
+</div></div></div></div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!-- begin nostyle -->
+<div class="art-nostyle">
+<!-- begin nostyle content -->
+
+
+
+
+
+
+
+<script type="text/javascript">jQuery.noConflict();</script>
+
+
+<div class="scroll"></div>
+        <div id="jslikeboxsidebarright" style="top: 10px;">
+			
+            <div class="jslikeboxsidebarinner"><div class="jslikeboxsidebarbuttonright">
+			
+			
+			<div id="likeboxblueiconright" style="width: 326px; padding: 7px;">
+
+			
+			 <div id="likebox-frame-lightr" style="width: 288px; overflow: hidden;">
+		<!--[if IE]>
+			 <iframe style="width: 293px; height: 535px; margin: -1px -4px 0 -4px;" frameborder="0" border="0" src="http://www.facebook.com/plugins/likebox.php?locale=pl_PL&href=https://www.facebook.com/elektronik.radom/&width=300&colorscheme=light&connections=50&stream=true&header=false&height=820" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<![endif]-->
+
+<!--[if !IE]>-->
+    <object type="text/html" style="width: 293px; height: 535px; margin: -1px -4px 0 -4px;" data="http://www.facebook.com/plugins/likebox.php?locale=pl_PL&href=https://www.facebook.com/elektronik.radom/&width=300&colorscheme=light&connections=50&stream=true&header=false&height=820" ></object>
+<!--<![endif]-->
+
+		</div>	
+		
+	</div></div></div>
+
+<div class="ssupport"><a href="http://www.colintonschoolofmotoring.com" title="driving lessons edinburgh">driving lessons edinburgh</a></div>
+        
+
+	
+
+</div>
+
+        <script type="text/javascript">
+
+             jQuery(document).ready(function($) {
+
+
+                $('#jslikeboxsidebarleft > div').hover(
+                    function () {
+                        $('.jslikeboxsidebarbuttonleft',$(this)).stop().animate({'marginLeft':'-12px'},200);
+                    },
+                    function () {
+                        $('.jslikeboxsidebarbuttonleft',$(this)).stop().animate({'marginLeft':'-305px'},200);
+                    }
+                );
+       
+		
+                $('#jslikeboxsidebarright > div').hover(
+                    function () {
+                        $('.jslikeboxsidebarbuttonright',$(this)).stop().animate({'marginLeft':'-290px'},200);
+                    },
+                    function () {
+                        $('.jslikeboxsidebarbuttonright',$(this)).stop().animate({'marginLeft':'8px'},200);
+                    }
+                );
+            });
+			
+</script>  
+
+
+
+
+
+       <!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+
+<footer class="art-footer">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell layout-item-0" style="width: 25%">
+    <!-- begin nostyle -->
+<div class="art-nostyle">
+<!-- begin nostyle content -->
+
+
+<div class="custom"  >
+	<p><img src="/images/moduly/logo_bottom.jpg" alt="logo bottom" style="border: 2px solid #ffffff; display: block; margin-left: auto; margin-right: auto;" /></p></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+</div><div class="art-layout-cell layout-item-1" style="width: 25%">
+    <!-- begin nostyle -->
+<div class="art-nostyle">
+<!-- begin nostyle content -->
+
+
+<div class="custom"  >
+	<p><img src="/images/moduly/rok.png" alt="rok" style="margin-top: 30px;" title="ROK POWSTANIA ZESPOŁU SZK&Oacute;Ł ELEKTRONICZNYCH W RADOMIU" /></p></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+</div><div class="art-layout-cell layout-item-0" style="width: 25%">
+    <!-- begin nostyle -->
+<div class="art-nostyle_bottom">
+<h3>Na skróty</h3>
+<!-- begin nostyle content -->
+<ul class="menu_bottom"><li class="item-237"><a title="Okręgowa Komisja Egzaminacyjna" href="http://www.oke.waw.pl/" target="_blank">Okręgowa Komisja Egzaminacyjna</a></li><li class="item-239"><a title="Centralna Komisja Egzaminacyjna" href="http://www.cke.edu.pl/" target="_blank">Centralna Komisja Egzaminacyjna</a></li><li class="item-236"><a title="Portal Oświata w Radomiu" href="http://www.oswiatawradomiu.pl" target="_blank">Portal Oświata w Radomiu</a></li><li class="item-240"><a title="Urząd Miejski w Radomiu" href="http://bip.radom.pl/">Urząd Miejski w Radomiu</a></li><li class="item-265"><a href="https://www.portaloswiatowy.pl/" target="_blank">Portal Oświatowy</a></li><li class="item-266"><a href="https://www.oswiatawradomiu.pl/" target="_blank">Zintegrowany system zarządzania oświatą w Radomiu</a></li></ul><!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+</div><div class="art-layout-cell layout-item-1" style="width: 25%">
+    <!-- begin nostyle -->
+<div class="art-nostyle_stopka">
+<h3>DANE TELEADRESOWE</h3>
+<!-- begin nostyle content -->
+
+
+<div class="custom_stopka"  >
+	<div class="kontakt">
+<h4>Zespół Szkół Elektronicznych</h4>
+<h4>im. Bohaterów Westerplatte</h4>
+<p>ul. Sadkowska 19<br />26-600 Radom<br />tel. 48 344-81-16<span class="contact-telephone" itemprop="telephone"><br /></span>fax. 48 344-05-97<span class="contact-fax" itemprop="faxNumber"><br /></span>e-mail zse[at]elektronik.edu.pl</p>
+</div></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+</div>
+    </div>
+</div>
+
+</footer>
+
+    </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+

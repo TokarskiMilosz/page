@@ -1,0 +1,192 @@
+#art-header-title{height:70px;margin-left:280px;padding-top:20px}
+#art-header-title h1 a:link,#art-header-title h1 a,#art-header-title h1 a:visited{color:#FFF;font-size:40px;padding:0;margin-top:0}
+#art-header-title h2,#art-header-title h1{color:#FFF;font-size:30px;padding-top:0;line-height:30px}
+#art-header-title h2{margin-top:5px;font-size:22px;line-height:22px}
+.szukaj{position:absolute;right:200px;bottom:10px}
+.art-nav{border:none}
+.art-postcontent p{font-size:15px;text-align:left}
+#art-main{background-color:#FAFAFA}
+.art-sheet{padding:10px 5px 0;background-color:#fff;margin-top:0}
+.art-layout-wrapper{background-color:#fff}
+.art-postheadericons{margin-bottom:10px}
+#slider .art-blockheader{background:#0A486F;border-bottom:2px #0A486F solid;color:#fff}
+#slider .art-blockheader h3{color:#fff}
+#slider{background-color:#0084A8;height:260px;padding-top:0;margin-top:10px;width:1140px;background-color:transparent}
+#slider .art-block{padding:0}
+#slider .art-blockheader .t,#slider .art-blockheader .t a,#slider .art-blockheader .t a:link,#slider .art-blockheader .t a:visited,#slider .art-blockheader .t a:hover{font-size:18px;color:#FFF;margin-top:0;text-align:right}
+.clearfix_anonse{background-color:transparent;height:290px;margin-bottom:5px;overflow:hidden;margin-top:0!important}
+.art-blockcontent ul.latestnews_anonse{margin:0 5px;overflow:hidden}
+.art-blockcontent ul.latestnews_anonse li:before{content:""}
+.art-blockcontent ul.latestnews_anonse li{border-bottom:1px solid #EBEBEB;padding-left:5px;margin-left:0;text-align:left;line-height:25px}
+.art-blockcontent ul.latestnews_anonse li a:link,.art-blockcontent ul.latestnews_anonse li a:visited{color:#0084A8;font-size:13px;text-decoration:none;font-weight:400;font-family:Verdana}
+
+
+/* wyróżnienie pierwszej wiadomości */
+.art-blockcontent ul.latestnews_anonse li:first-child a:link, .art-blockcontent ul.latestnews_anonse li:first-child a:visited{
+  color:#fd9501;
+}
+
+
+.art-blockcontent ul.latestnews_anonse li a.active{color:red}
+.art-blockcontent ul.latestnews_anonse li a:hover{color:#0A486F}
+.camera_caption_title{margin-bottom:10px;color:#FD9600}
+.clearfix_kalendarz{margin-top:10px!important}
+.art-nostyle_tiles{width:100%;margin-top:10px}
+ul.menu_tiles{text-align:center}
+ul.menu_tiles li{display:inline-block;width:14%;height:100px;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;overflow:hidden;background-position:center bottom;background-repeat:no-repeat;margin-right:2px;border-width:0px;border-style:solid;transition:.5; background-size:96%}
+ul.menu_tiles a{display:block;color:#fff;padding:3px 0;transition:.6s;font-size:15px}
+ul.menu_tiles li:hover a{height:80px;padding-top:20px;font-size:16px;font-weight:700;text-shadow:0 0 1px #000}
+ul.menu_tiles a:hover{height:80px;padding-top:20px}
+li.item-159{background-image:url(../images/ikony/01_a.png);border-color:#870D0D}
+li.item-159 a{background-color:#870D0D}
+li.item-159:hover a{background-color:transparent;background-image:url(../images/tlo/item-159.png)}
+li.item-157{background-image:url(../images/ikony/02_a.png);border-color:#E54F37}
+li.item-157 a{background-color:#E54F37}
+li.item-157:hover a{background-color:transparent;background-image:url(../images/tlo/item-157.png)}
+li.item-158{background-image:url(../images/ikony/03_a.png);border-color:#7BCF11}
+li.item-158 a{background-color:#7BCF11}
+li.item-158:hover a{background-color:transparent;background-image:url(../images/tlo/item-158.png)}
+li.item-161{background-image:url(../images/ikony/04_a.png);border-color:#7D9B5B}
+li.item-161 a{background-color:#7D9B5B}
+li.item-161:hover a{background-color:transparent;background-image:url(../images/tlo/item-161.png)}
+li.item-162{background-image:url(../images/ikony/a05_a_dane.png);border-color:#EEA53E}
+li.item-162 a{background-color:#EEA53E}
+li.item-162:hover a{background-color:transparent;background-image:url(../images/tlo/item-162.png)}
+li.item-115{background-image:url(../images/ikony/06_a.png);border-color:#C55F01}
+li.item-115 a{background-color:#C55F01}
+li.item-115:hover a{background-color:transparent;background-image:url(../images/tlo/item-115.png)}
+li.item-160{background-image:url(../images/ikony/07_a.png);border-color:#60AEB7}
+li.item-160 a{background-color:#60AEB7}
+li.item-160:hover a{background-color:transparent;background-image:url(../images/tlo/item-160.png)}
+li.item-163{background-image:url(../images/ikony/08_a.png);border-color:#6095CA}
+li.item-163 a{background-color:#6095CA}
+li.item-163:hover a{background-color:transparent;background-image:url(../images/tlo/item-163.png)}
+li.item-423{background-image:url(../../../images/ikony1/gazetka.png);border-color:#6095CA}
+li.item-423 a{background-color:#6095CA}
+li.item-423:hover a{background-color:transparent;background-image:url(../images/tlo/item-163.png)}
+li.item-430{background-image:url(../../../images/ikony1/erasmus.png);border-color:#005765}
+li.item-430 a{background-color:#005765}
+li.item-430:hover a{background-color:transparent;background-image:url(../../../images/ikony1/item-430.png)}
+.art-sidebar2{width:300px}
+.art-sidebar2 .art-block{margin-left:10px}
+.art-sidebar2 .art-blockcontent{padding:0}
+.art-sidebar2 ul.latestnews_news{background-color:#F7F7F7;margin-bottom:20px}
+.art-sidebar2 ul.latestnews_news li:before{content:""}
+.art-sidebar2 ul.latestnews_news li{border-top:1px solid #E5E5E5;margin:0;padding:2px}
+.art-sidebar2 ul.latestnews_news li:last-child{border-bottom:1px solid #E5E5E5}
+.art-sidebar2 ul.latestnews_news li a:link{display:inline-block;text-decoration:none;margin-left:0;border-left:2px solid #0A486F;padding:5px 10px}
+ul.latestnews_news li:hover{background-color:#E1E1E1;color:#000}
+ul.latestnews_news li:hover a{color:#0A486F}
+.art-postcontent ol,.art-post ol,.art-textblock ol,.art-postcontent ul,.art-post ul,.art-textblock ul{margin-top:0;margin-left:5px}
+.custom_stopka h4{padding:0;margin:0;color:#fff;font-size:14px}
+.art-nostyle_stopka h3{color:#82E2FF;padding:0;margin-left:0}
+.custom_stopka p{color:#D2F5FF}
+div.art-nostyle_stopka ul{margin-left:10px}
+div.art-nostyle_stopka ul li{line-height:20px;text-transform:uppercase}
+.art-nostyle_bottom h3{color:#82E2FF;padding:0;margin-left:0}
+ul.menu_bottom li a:link,ul.menu_bottom li a,ul.menu_bottom li a:visited{margin:0;padding:0;line-height:20px}
+ul.menu_bottom li{line-height:150%}
+.kontakt p{line-height:120%}
+p.art-page-footer{text-align:right!important}
+.img-intro-left{margin:10px 10px 5px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;width:300px;height:170px;margin-right:20px}
+.img-intro-left img{-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;margin-top:-5px;padding:1px;border:1px solid #BDBDBD;background-color:#EEE;padding:2px;width:100%}
+#partner{text-align:center}
+#partner ul{margin-top:20px}
+#partner ul li{margin-bottom:15px;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;padding:0;border:1px solid #E5E5E5;padding-top:5px}
+#partner li:before{content:""}
+#partner img{margin:0}
+p.counter{font-size:13px;font-weight:700}
+.pagination{width:95%;margin:0 auto 20px}
+.art-postcontent ol{margin-top:10px;color:#333}
+.art-postcontent ol.nav li{font-size:14px;color:#2D88DB}
+.art-postcontent a,.art-postcontent a:link{text-decoration:underline}
+.items-more{background-color:#F0F0F0;padding:10px 5px;margin:20px 0;border-radius:2px}
+article.art-post{margin-right:20px}
+p.readmore{float:right;margin-top:-5px}
+.btn-group{text-align:right}
+.content-category_zast h2{border-bottom:2px #0A4970 solid;line-height:2em;margin-bottom:20px}
+.content-category_zast table{border-spacing:0}
+.content-category_zast table th a:link{color:#FFF}
+.content-category_zast table th{background-color:#0A486F;color:#fff;padding-left:5px;line-height:35px}
+.content-category_zast table tr:nth-of-type(2n+1) td{background-color:#F2F2F2}
+.content-category_zast table td{font-size:13px;padding-left:5px;line-height:30px;border-bottom:1px gray dotted}
+.art-postheadericons{text-align:right}
+form.art-search input[type="submit"],input.art-search-button,a.art-search-button{padding:0 10px}
+form.art-search input[type="text"]{padding:13px 10px;border-color:#0A486F}
+form.art-search input[type="submit"],input.art-search-button,a.art-search-button{background-color:#0A486F}
+h1.tytul,h2.tytul{color:#315787;margin-left:180px;padding:0}
+h1.tytul{font-size:36px;line-height:36px;margin-top:8px}
+h2.tytul{font-size:20px}
+.informatyk,.elektronik,.monter,.teleinformatyk,.mechatronik,.mechanik,.automatyk,.dzwig,.programista{margin-bottom:5px;height:80px;background-position:top center;transition:.7s;border:1px solid #F5F5F5}
+.informatyk:hover,.elektronik:hover,.monter:hover,.teleinformatyk:hover,.mechatronik:hover,.mechanik:hover,.automatyk:hover,.programista:hover{background-position:bottom center}
+.informatyk{background-image:url(../../../images/kierunki/informatyk.jpg);background-repeat:no-repeat}
+.elektronik{background-image:url(../../../images/kierunki/elektronik.jpg);background-repeat:no-repeat}
+.teleinformatyk{background-image:url(../../../images/kierunki/teleinformatyk.jpg);background-repeat:no-repeat}
+.monter{background-image:url(../../../images/kierunki/monter.jpg);background-repeat:no-repeat}
+.mechatronik{background-image:url(../../../images/kierunki/mechatronik.jpg);background-repeat:no-repeat}
+.mechanik{background-image:url(../../../images/kierunki/mechanik.jpg);background-repeat:no-repeat}
+.automatyk{background-image:url(../../../images/kierunki/automatyk_1.png);background-repeat:no-repeat}
+.dzwig{background-image:url(../../../images/kierunki/technik_dzwig_small.jpg);background-repeat:no-repeat}
+.programista{background-image:url(../../../images/kierunki/programista_small.jpg);background-repeat:no-repeat}
+#profile a{color:#000;text-align:center;display:block;background-color:rgba(255,255,255,0.6);line-height:40px;transition:.5s;font-weight:700}
+#profile a:hover{background-color:rgba(10,72,111,0.6);color:#fff;font-size:15px}
+.automatyk:hover a,.mechatronik:hover a,.informatyk:hover a,.elektronik:hover a,.monter:hover a,.teleinformatyk:hover a,.dzwig:hover a,.programista:hover a{height:80px}
+.art-sidebar2 .art-block{margin-top:0}
+div.clearfix_anonse div.art-blockheader{background-color:#0A486F}
+.tabela{border:none;width:100%}
+.tabela td{border:none}
+.zasady h3+ul{margin-top:20px}
+.zasady ul li{line-height:2em}
+.scrollup{width:40px;height:40px;opacity:.3;position:fixed;bottom:50px;right:20px;display:block;background:url(../images/icon_top.png) no-repeat}
+div.clearfix_rss > .art-blockcontent a{color:#fff;font-size:16px;font-weight:700;background-color:#63D1EF;display:block;padding:15px 5px;text-shadow:0 0 2px #000}
+div.clearfix_rss{margin:0 10px;width:268px;background-color:#63D1EF;margin-bottom:20px;padding:5px}
+.art-rss-tag-icon{text-indent:0;text-align:center}
+.art-block.clearfix_olimpiada{height:120px;margin-bottom:10px;transition:.5s;background-color:green;background:url(../../../images/inne/olimpiada.png) top left;margin-top:10px}
+.art-block.clearfix_olimpiada:hover{background-position:bottom right}
+.art-block.clearfix_olimpiada a:link{background:none;display:block;background-color:rgba(255,255,255,0.6);font-size:18px;color:#000;text-align:center;padding:10px 0;font-weight:700;transition:.5s}
+.art-block.clearfix_olimpiada:hover a:link{background-color:rgba(0,0,0,0.6);color:#fff;padding:33px 0}
+.art-block.clearfix_olimpiada .art-blockcontent{background:none}
+.nekrolog{border:2px solid #000;padding:30px 10px;text-align:center;margin-top:30px;margin-bottom:40px}
+.nekrolog h3{font-size:30px;font-weight:700}
+.nekrolog p{font-size:20px;text-align:center;line-height:30px}
+.wielkanoc {width:850px;height:250px;background-image:url('../../../images/swieta/wielkanoc.jpg');background-repeat:no-repeat;background-color:#000;padding-top:10px;}
+.custom_swieta {margin-top:15px;}
+.wielkanoc p {color:#fff;font-size:20px;line-height:1.2em;margin-left:200px;font-family:"Times New Roman", Times, serif;text-align:center;padding-right:10px;text-shadow:0px 0px 1px #000;font-weight:bold;}
+.wielkanoc p.tytul {font-size: 23px;color: #FFFF66;text-shadow:0px 0px 1px red;}
+.art-block ul.lat_50 >li::before{content:none;
+}
+.art-block ul.lat_50>li {
+		text-align:center;
+		margin:4px;
+	
+}	
+.clearfix_kalendarz .art-blockheader {
+  margin-bottom:10px;
+}
+div#nauczyciele table td,div#nauczyciele table th{
+  border:none;
+}
+div#nauczyciele {margin-bottom:20px;
+	width:80%;
+}
+div#nauczyciele table td {border-bottom:1px solid #CCCCCC}
+div#nauczyciele table th {background-color:#0A486F}
+div#nauczyciele table tr.nauczyciele td{
+  background-color:#0A486F;
+  border:none;
+  color:#fff;
+}
+
+div#godz{
+background-color:#18274e;
+color:#fff;
+font-size:20px;
+font-weight:bold;
+box-sizing:border-box;
+padding-left:40px;
+height:95px;
+margin-top:10px;
+display:block;
+text-align:center;
+  
+}
