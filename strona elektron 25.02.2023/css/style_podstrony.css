@@ -1,0 +1,541 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    height: 5em;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    transition: 0.5s;
+    background-color: #2299d3;
+}
+
+.logo-container {
+    height: 5em;
+    float: left;
+    width: auto;
+
+}
+
+.logo-img {
+    height: 100%;
+    float: left;
+    padding-left: 2px;
+    visibility: visible;
+    background-color: #2299d3;
+    border-radius: 0 0 1vw;
+    transition: 0.25s;
+}
+
+
+.logo {
+    color: white;
+    font-size: 4.5em;
+    padding: 0 0 0.3vw 0.3vw;
+    float: left;
+    font-weight: bold;
+    height: 100%;
+    position: relative;
+    width: auto;
+}
+
+.menu-container {
+    width: 125px;
+    float: right;
+    height: 4.5em;
+    position: relative;
+    z-index: 11;
+    transition: 0.25s;
+    border: #2299d3 0.25em solid;
+    background-color: #2299d3;
+}
+
+.menu-container:hover {
+    border: white 0.25em solid;
+    background-color: #56bcf0;
+    transition: 0.25s;
+}
+
+.menu-container>label>b {
+    color: white;
+    font-size: 1.2em;
+    font-weight: lighter;
+    padding-left: 35px;
+}
+
+
+/* menu */
+[type="checkbox"]:checked,
+[type="checkbox"]:not(:checked) {
+    position: absolute;
+    left: -9999px;
+}
+
+.menu-icon:checked+label,
+.menu-icon:not(:checked)+label {
+    position: fixed;
+    top: 28px;
+    right: 85px;
+    display: block;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.menu-icon:checked+label:before,
+.menu-icon:not(:checked)+label:before {
+    position: absolute;
+    content: '';
+    display: block;
+    width: 30px;
+    height: 20px;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    transition: border-width 100ms 1500ms ease,
+        top 100ms 1600ms cubic-bezier(0.23, 1, 0.32, 1),
+        height 100ms 1600ms cubic-bezier(0.23, 1, 0.32, 1),
+        background-color 200ms ease,
+        transform 200ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.menu-icon:checked+label:after,
+.menu-icon:not(:checked)+label:after {
+    position: absolute;
+    content: '';
+    display: block;
+    width: 22px;
+    height: 2px;
+    z-index: 20;
+    top: 10px;
+    right: 4px;
+    background-color: white;
+    margin-top: -1px;
+    transition: width 100ms 1750ms ease,
+        right 100ms 1750ms ease,
+        margin-top 100ms ease,
+        transform 200ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.menu-icon:checked+label:before {
+    top: 10px;
+    transform: rotate(45deg);
+    height: 2px;
+    background-color: white;
+    border-width: 0;
+    transition: border-width 100ms 340ms ease,
+        top 100ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+        height 100ms 300ms cubic-bezier(0.23, 1, 0.32, 1),
+        background-color 200ms 500ms ease,
+        transform 200ms 1700ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.menu-icon:checked+label:after {
+    width: 30px;
+    margin-top: 0;
+    right: 0;
+    transform: rotate(-45deg);
+    transition: width 100ms ease,
+        right 100ms ease,
+        margin-top 100ms 500ms ease,
+        transform 200ms 1700ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.nav {
+    position: fixed;
+    top: -50px;
+    right: -50px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    z-index: 7;
+    overflow: hidden;
+    background-color: #2299d3;
+    border-radius: 3em;
+    transition: top 350ms 1100ms cubic-bezier(0.23, 1, 0.32, 1),
+        right 350ms 1100ms cubic-bezier(0.23, 1, 0.32, 1),
+        transform 250ms 1100ms ease,
+        width 650ms 400ms cubic-bezier(0.23, 1, 0.32, 1),
+        height 650ms 400ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.menu-icon:checked~.nav {
+    animation-play-state: paused;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    width: 200%;
+    height: 200%;
+    transition: top 350ms 700ms cubic-bezier(0.23, 1, 0.32, 1),
+        right 350ms 700ms cubic-bezier(0.23, 1, 0.32, 1),
+        transform 250ms 700ms ease,
+        width 750ms 1000ms cubic-bezier(0.23, 1, 0.32, 1),
+        height 750ms 1000ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.nav ul {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    z-index: 6;
+    text-align: center;
+    transform: translateY(-50%);
+    list-style: none;
+}
+
+.nav ul li {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 10px 0;
+    text-align: center;
+    list-style: none;
+    pointer-events: none;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(30px);
+    transition: all 250ms linear;
+}
+
+.nav ul li:nth-child(1) {
+    transition-delay: 200ms;
+}
+
+.nav ul li:nth-child(2) {
+    transition-delay: 150ms;
+}
+
+.nav ul li:nth-child(3) {
+    transition-delay: 100ms;
+}
+
+.nav ul li:nth-child(4) {
+    transition-delay: 50ms;
+}
+
+.nav ul li a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 6vh;
+    text-transform: uppercase;
+    line-height: 1.2;
+    font-weight: 800;
+    display: inline-block;
+    position: relative;
+    color: white;
+    transition: all 250ms linear;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    text-decoration: line-through;
+    color: #0a4c6d;
+    transform: scale(1.05);
+}
+
+.nav ul li a:hover:after {
+    width: 100%;
+}
+
+
+.menu-icon:checked~.nav ul li {
+    pointer-events: auto;
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 350ms ease,
+        transform 250ms ease;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(1) {
+    transition-delay: 1400ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(2) {
+    transition-delay: 1480ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(3) {
+    transition-delay: 1560ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(4) {
+    transition-delay: 1640ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(5) {
+    transition-delay: 1720ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(6) {
+    transition-delay: 1800ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(7) {
+    transition-delay: 1880ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(8) {
+    transition-delay: 1960ms;
+}
+
+.menu-icon:checked~.nav ul li:nth-child(9) {
+    transition-delay: 2040ms;
+}
+
+/* koniec menu */
+.slide-container {
+    width: 100%;
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backface-visibility: hidden;
+    animation: slideBg 15s linear infinite 0s;
+    animation-timing-function: ease-in-out;
+    background-image: url('../zdj/glowna/g1.jpg');
+    filter: brightness(40%);
+}
+
+main {
+    margin-top: 5em;
+}
+
+.nowosci-container {
+    width: 80%;
+    margin: auto;
+    color: #0e3f58;
+}
+
+.nowosci-container article {
+    margin-top: 10%;
+}
+
+.nowosci-container article h3 {
+    font-size: 2.5vw;
+    display: inline-block;
+}
+
+.nowosci-container article h5 {
+    font-size: 0.75vw;
+}
+
+.nowosci-container article p {
+    font-size: 1.5vw;
+}
+
+.nowosci-container article button {
+    width: 12vw;
+    font-size: 1vw;
+    font-weight: bold;
+    float: right;
+    height: 4vw;
+    background-color: #2299d3;
+    color: white;
+    border: none;
+    border-radius: 1vw;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.nowosci-container article button:hover {
+    transition: 0.5s;
+    transform: scale(1.05);
+    background-color: #1d739e;
+}
+
+.nowosci-container article img,
+.nowosci-container article div {
+    width: 47.5%;
+}
+
+.nowosci-container article>div {
+    float: left;
+    margin-right: 5%;
+}
+
+.nowosci-container article img {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-radius: 0.5vw;
+}
+
+.nowosci-subcontainer {
+    color: #092d3f;
+    width: 80%;
+    margin: auto;
+}
+
+.nowosci-subcontainer h3 {
+    font-size: 3.5vw;
+}
+
+.nowosci-subcontainer h5 {
+    font-size: 0.75vw;
+}
+
+.nowosci-subcontainer p {
+    font-size: 1.5vw;
+}
+
+.nowosci-subcontainer img {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-radius: 1vw;
+    width: 80%;
+    margin: 5vw 10% 0 10%;
+}
+
+.oszkole-icons {
+    width: 80%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.oszkole-icons a {
+    text-decoration: none;
+}
+
+.icon-container {
+    width: 30%;
+    float: left;
+    background-color: #0a4c6d;
+    margin: calc(10% / 6);
+    height: 22.5vw;
+    border-radius: 1vw;
+    transition: 0.5s;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.icon-container:hover {
+    background-color: #092d3f;
+    transition: 0.5s;
+    transform: scale(1.025);
+}
+
+.icon-container h2 {
+    color: white;
+    text-align: center;
+    font-size: 2vw;
+}
+
+.icon-container img {
+    width: 50%;
+    margin-left: calc(25% - 2vw);
+    padding: 2vw;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: auto;
+    background-color: #2299d3;
+    position: relative;
+}
+
+footer hr {
+    width: 80%;
+}
+
+@media screen and (max-width: 790px) {
+    .logo {
+        font-size: 2.25em;
+        line-height: 1.1;
+        width: 28%;
+    }
+
+    .icon-container {
+        width: 45%;
+        margin: calc(8% / 6);
+        height: 30vw;
+    }
+
+    .icon-container h2 {
+        font-size: 3vw;
+    }
+
+    .nowosci-container {
+        width: 95%;
+    }
+
+    .nowosci-container article h3 {
+        font-size: 7vw;
+    }
+
+    .nowosci-container article h5 {
+        font-size: 1vw;
+    }
+
+    .nowosci-container article p {
+        font-size: 3vw;
+    }
+
+    .nowosci-container article img,
+    .nowosci-container article div {
+        width: 100%;
+    }
+
+    .nowosci-container article button {
+        width: 30vw;
+        height: 10vw;
+        font-size: 3.5vw;
+        margin-right: 33vw;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .nav ul li a {
+        font-size: 5vh;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .logo {
+        visibility: hidden;
+        width: 0%;
+    }
+
+    .logo-container {
+        width: 100px;
+    }
+
+    .nav ul li a {
+        font-size: 4vh;
+    }
+
+    .icon-container {
+        width: 90%;
+        margin: 5%;
+        height: 60vw;
+    }
+
+    .icon-container h2 {
+        font-size: 5vw;
+    }
+
+
+}
